@@ -1,0 +1,49 @@
+# Initial review protocol — version 0.1, 2026-10-14
+
+This is a feasibility protocol recorded before full-text extraction, not a preregistered or completed systematic review. Revisions and their reasons must be recorded here.
+
+## Question and eligibility
+
+Population: students with established deafness or hearing loss, including unilateral, mild, hearing-aid, and cochlear-implant subgroups, in primary, secondary, college, or organized adult education. Do not pool hearing-loss severities, language backgrounds, or educational stages merely because they share a DHH label. Normally hearing students with simulated hearing loss are not eligible primary participants.
+
+Context: actual or simulated lessons, lectures, or educational videos. Objective comprehension of propositions, concepts, factual or inferential content, learning gains, and delayed content retention are eligible candidates, but immediate comprehension and delayed retention form separate outcome families. General entertainment or everyday-information media with student participants are near-scope records; whether to extend the final question must be explicitly justified before extraction-driven pooling. General adult media viewers, isolated-word recognition, sentence repetition/SNR thresholds, vocabulary acquisition alone, eye fixations, perceived access, and cognitive effort are not interchangeable with classroom/content comprehension.
+
+Exposures/comparisons: all eleven factors from the requirements; compare actual teaching/support conditions within DHH participants where possible. DHH-versus-hearing comparisons describe population differences and do not by themselves estimate the effect of changing a classroom factor. SimCom, native sign-language instruction, and interpreting are distinct conditions. Caption rate and teacher speech rate are distinct subfactors. Physical listening distance is an indirect lead for seating, not an equivalent assigned-seating intervention. Written lecture notes and print as the principal instructional modality are distinct.
+
+Study types: primary quantitative experimental, quasi-experimental, and observational studies, with design-specific synthesis. Qualitative primary studies and reviews can map factors and explain context but never contribute independent quantitative samples. Conference papers and theses can be tracked; apply transparent quality/sensitivity rules rather than exclude only because a result is null. Language: English full-text analysis initially feasible; log potentially eligible non-English publications and translation limitations rather than implying global coverage. Date limits: no lower limit, through the final updated search date.
+
+## Search strategy and audit
+
+Initial web discovery used broad and site-targeted searches across PubMed, ERIC, primary publisher pages, university repositories, and an OpenAlex record. Save exact queries, date, interface, source URLs, and returned records in `literature/searches`. Native database and Google Scholar searches/exports, exhaustive screening, and reference/citation chasing are still pending. Do not call this initial web inventory an exhaustive database search, fabricate database hit counts, or draw a completed PRISMA flow diagram from retained candidates alone.
+
+For native searches use a population block `(deaf OR "hard of hearing" OR "hearing loss" OR "hearing impaired" OR "cochlear implant")`, an education block `(student OR classroom OR lecture OR instruction OR teaching OR "educational video")`, and outcome block `(comprehension OR "content learning" OR retention OR understanding)`. Run broad blocks plus each factor's synonyms: captions/subtitles; sign language/interpreter/SimCom/sign-supported speech; CART/C-Print/speech-to-text; remote microphone/FM/sound-field amplification; diagrams/pictures/concept maps; pace/speech rate/presentation rate/caption rate; notes/handouts/transcripts; live/video/direct/mediated; noise/babble/SNR/reverberation; seating/distance/spatial configuration; visual attention/layout/visibility/split attention.
+
+Record native result counts separately from web result snippets. Deduplicate DOI (case-insensitive), PMID/ERIC IDs, then normalized titles. Keep duplicate retrieval records linked to the canonical report rather than discard audit information. The first feasibility directory retains 38 reports, of which two are population exclusions; all other status decisions are preliminary. Uncurated raw search hits still require explicit triage; no final screening denominator is currently available. Related report aliases (e.g. Elliot 2002) are not extra independent studies.
+
+## Full-text extraction
+
+At the user's requested gate, supply a consolidated PDF list and wait. For each supplied paper: record file hash, version, title/DOI, verification date, and pages. Assign publication_id to the report, study_id to an experiment, and independence_cluster_id to the actual cohort (shared across reports if necessary). Report the number of papers, experiments, and confirmed independent samples separately. Check overlapping recruitment sites, dates, reported demographics, investigator series, and explicit re-analysis claims.
+
+Extract population, setting, eligibility, allocation, attrition, DHH subgroup counts, languages, prior knowledge, task/test validity, timing, presentation order, intervention fidelity, group n/mean/SD, units/range/direction, and raw t/F/df/CI statistics with precise page/table and contrast labels. For paired data, extract SD of differences or an appropriate contrast SE/t and paired correlation if reported. For cluster designs, preserve cluster counts and ICC. Means without SD/SE are incomplete. An omnibus multi-arm F does not identify a pairwise contrast. A p-value inequality does not provide an exact effect. Missing values remain NA; do not infer equal group sizes from total n. Do not confuse SD with SE, gain with final score, or age SD with outcome SD.
+
+A second independent extractor/reviewer has not been arranged. Report this limitation honestly; within this single-agent workflow use a separate re-extraction pass and provenance reconciliation without claiming two independent reviewers. Contact authors only if the user authorizes messaging; no author contact is currently authorized.
+
+## Factor selection after extraction
+
+Use a feasibility table rather than a pseudo-objective score from abstracts. For each factor record: confirmed independent samples; number with complete, valid effects; comparable intervention/comparator families; outcome families/timepoints; designs; educational levels; missing-data mechanisms; and risk-of-bias judgments with supporting text. Select 1–3 factors with the strongest intersection of independence, data completeness, construct consistency, comparable contrasts, and acceptable quality. A target of five independent comparable studies is desirable but not a minimum theorem. If evidence supports only one factor or no defensible pooling, explain that outcome and use unpooled effect estimates/narrative synthesis as appropriate.
+
+Risk-of-bias domains to inspect: allocation/confounding, baseline imbalance, presentation order/content equivalence, missing outcomes, outcome scoring/blinding, selective outcome/contrast reporting, repeated comparisons, and indirectness to classroom comprehension. These are structured appraisal domains, not a validated total quality score. Use a named design-appropriate tool in the final review if feasible and document applicability. Eligibility and quality cannot be established from the abstract alone.
+
+## Statistical analysis and reporting
+
+All empirical-data processing and statistical calculations use C#. Validation fixtures are segregated. For independent continuous outcomes use direction-aligned Hedges' g with the declared correction/variance estimator in `validation/README.md`. Paired/cluster/observational results need separate validated treatment, with no silent independence assumption or invented correlation. For each prespecified compatible synthesis, include one selected contrast/outcome per independence cluster to prevent double counting. Keep materially different comparisons separate. The current executable implements DL tau-squared and normal/Wald 95% intervals; this is a preliminary basic option, and its small-k uncertainty and possible sensitivity choices must be resolved when the actual data structure is known. Report g/variance/CI per study, pooled results where justified, Q/tau-squared/I², and limitations. Do not interpret I² as percentage of studies that disagree or as a quality score. Do not infer causation from observational associations. No machine learning, meta-regression, or high-dimensional modeling.
+
+No final publication-bias test is planned for sparse groups. Report the potential for missing studies and selective reporting qualitatively. A nonsignificant estimate is not proof of no effect or equivalence. The forest plot is only produced from real, eligible estimable effects; never populate it with validation fixtures.
+
+## Sources for the reporting/statistical plan
+
+- [PRISMA 2020](https://www.prisma-statement.org/prisma-2020) and [PRISMA-S](https://www.prisma-statement.org/prisma-search).
+- [Cochrane Handbook, Chapter 6](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-06), effect measures and extractable statistics.
+- [Cochrane Handbook, Chapter 10](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-10), pooling and small-study uncertainty.
+- [Cochrane Handbook, Chapter 23](https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-23), crossover and cluster designs.
+- [Official statsmodels numerical tests](https://github.com/statsmodels/statsmodels/blob/main/statsmodels/stats/tests/test_meta.py), standard numerical verification.

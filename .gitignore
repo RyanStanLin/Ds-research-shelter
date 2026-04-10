@@ -1,0 +1,15 @@
+**/bin/
+**/obj/
+**/TestResults/
+**/__pycache__/
+*.pyc
+*.binlog
+.DS_Store
+.env
+.env.*
+source_papers/
+literature/pdfs/
+literature/fulltext/
+paper/
+tmp/
+deliverables/
