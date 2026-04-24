@@ -1,0 +1,22 @@
+{
+  "date": "2026-10-14",
+  "purpose": "bibliographic and numerical-method verification; no original PDFs opened",
+  "hits": [
+    {
+      "retrieval_id": "verification01-001",
+      "title": "statsmodels.stats.meta_analysis \u2014 statsmodels 0.15.0",
+      "url": "https://www.statsmodels.org/stable/_modules/statsmodels/stats/meta_analysis.html"
+    },
+    {
+      "retrieval_id": "verification01-002",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16928778/"
+    },
+    {
+      "retrieval_id": "verification01-003",
+      "title": "Classroom Interpreting and Visual Information Processing in Mainstream Education for Deaf Students: Live or Memorex? - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16628250/"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}

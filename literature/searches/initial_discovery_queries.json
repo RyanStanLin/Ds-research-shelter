@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Taipei",
+  "interface": "web search",
+  "queries": [
+    {
+      "q": "deaf hard hearing classroom learning comprehension captioning sign interpreting transcription empirical study"
+    },
+    {
+      "q": "deaf hard hearing classroom comprehension noise FM remote microphone children study"
+    },
+    {
+      "q": "deaf students lecture learning visual aids pace teaching speed seating position empirical"
+    },
+    {
+      "q": "site.pubmed.ncbi.nlm.nih.gov deaf classroom learning captions interpreting text alternatives"
+    },
+    {
+      "q": "site.eric.ed.gov deaf students comprehension captions visual aids learning"
+    },
+    {
+      "q": "site.pubmed.ncbi.nlm.nih.gov hearing impaired children listening comprehension noise remote microphone"
+    }
+  ],
+  "capture_note": "Exact initial six queries reconstructed from the tool-call record. Returned hit lists were not separately archived at that stage; do not claim a complete retrieval count."
+}
