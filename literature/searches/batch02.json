@@ -1,0 +1,157 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Taipei",
+  "interface": "web search; site-targeted indexing searches, not native database export",
+  "queries": [
+    {
+      "q": "site.pubmed.ncbi.nlm.nih.gov \u0022deaf\u0022 \u0022captions\u0022 \u0022comprehension\u0022"
+    },
+    {
+      "q": "site.eric.ed.gov \u0022deaf\u0022 \u0022visual\u0022 \u0022learning\u0022 \u0022Marschark\u0022"
+    },
+    {
+      "q": "site.pubmed.ncbi.nlm.nih.gov \u0022deaf\u0022 \u0022text\u0022 \u0022classroom learning\u0022"
+    },
+    {
+      "q": "site.pubmed.ncbi.nlm.nih.gov \u0022hearing\u0022 \u0022noise\u0022 \u0022comprehension\u0022 children"
+    }
+  ],
+  "hits": [
+    {
+      "retrieval_id": "batch02-001",
+      "title": "Comprehension of television messages by deaf students at various stages of education - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19350951/"
+    },
+    {
+      "retrieval_id": "batch02-002",
+      "title": "Television literacy: comprehension of program content using closed captions for the deaf.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15451862/"
+    },
+    {
+      "retrieval_id": "batch02-003",
+      "title": "A Comparison of Comprehension Processes in Sign Language Interpreter Videos with or without Captions - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26010899/"
+    },
+    {
+      "retrieval_id": "batch02-004",
+      "title": "The effect of noise on listening effort in children as measured using different methods: a systematic review and meta-analyses.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39921717/"
+    },
+    {
+      "retrieval_id": "batch02-005",
+      "title": "Children\u0027s understanding of how noise disrupts verbal communication.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41757716/"
+    },
+    {
+      "retrieval_id": "batch02-006",
+      "title": "Speech Perception in Noise Predicts Oral Narrative Comprehension in Children With Developmental Language Disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34744907/"
+    },
+    {
+      "retrieval_id": "batch02-007",
+      "title": "Auditory Comprehension in School-Aged Children With Normal Hearing and With Unilateral Hearing Loss - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31913800/"
+    },
+    {
+      "retrieval_id": "batch02-008",
+      "title": "Research Article",
+      "url": "https://files.eric.ed.gov/fulltext/EJ1318611.pdf"
+    },
+    {
+      "retrieval_id": "batch02-009",
+      "title": "Benefits of sign language interpreting and text alternatives for deaf students\u0027 classroom learning - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16928778/"
+    },
+    {
+      "retrieval_id": "batch02-010",
+      "title": "JPED 27_2 inside pages.indd",
+      "url": "https://files.eric.ed.gov/fulltext/EJ1040530.pdf"
+    },
+    {
+      "retrieval_id": "batch02-011",
+      "title": "Benefits of Sign Language Interpreting and Text Alternatives for Deaf Students\u0027 Classroom Learning - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1686598/"
+    },
+    {
+      "retrieval_id": "batch02-012",
+      "title": "Video Captions Benefit Everyone - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5214590/"
+    },
+    {
+      "retrieval_id": "batch02-013",
+      "title": "Are Deaf Students Visual Learners? - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3671598/"
+    },
+    {
+      "retrieval_id": "batch02-014",
+      "title": "Educational Research and Reviews",
+      "url": "https://files.eric.ed.gov/fulltext/EJ1111389.pdf"
+    },
+    {
+      "retrieval_id": "batch02-015",
+      "title": "The Benefit to the Deaf of Real-Time Captions in a Mainstream Classroom Environment - Robotics Institute Carnegie Mellon University",
+      "url": "https://publications.ri.cmu.edu/the-benefit-to-the-deaf-of-real-time-captions-in-a-mainstream-classroom-environment"
+    },
+    {
+      "retrieval_id": "batch02-016",
+      "title": "International Journal of Education and Evaluation (IJEE) E-ISSN 2489-0073 P-ISSN 2695-1940",
+      "url": "https://iiardjournals.org/get/IJEE/VOL.%2011%20NO.%202%202025/Articolo%202.pdf"
+    },
+    {
+      "retrieval_id": "batch02-017",
+      "title": "DOCUMENT RESUME",
+      "url": "https://files.eric.ed.gov/fulltext/ED314891.pdf"
+    },
+    {
+      "retrieval_id": "batch02-018",
+      "title": "Adaptive Captioning with Emotional Cues: Supporting DHH and Neurodivergent Learners in STEM",
+      "url": "https://arxiv.org/abs/2603.15977"
+    },
+    {
+      "retrieval_id": "batch02-019",
+      "title": "Children\u0027s auditory perception and cognitive processing skills in adverse listening",
+      "url": "https://digital.lib.washington.edu/bitstreams/ea1bba27-3bd7-4e95-9ac6-94eadf2aad4f/download"
+    },
+    {
+      "retrieval_id": "batch02-020",
+      "title": "Augmenting Captions with Emotional Cues: An AR Interface for Real-Time Accessible Communication",
+      "url": "https://arxiv.org/abs/2504.17171"
+    },
+    {
+      "retrieval_id": "batch02-021",
+      "title": "Evaluating the Feasibility of Augmented Reality to Support Communication Access for Deaf Students in Experiential Higher Education Contexts",
+      "url": "https://arxiv.org/abs/2604.00856"
+    },
+    {
+      "retrieval_id": "batch02-022",
+      "title": "Empowering the Deaf and Hard of Hearing Community: Enhancing Video Captions Using Large Language Models",
+      "url": "https://arxiv.org/abs/2412.00342"
+    },
+    {
+      "retrieval_id": "batch02-023",
+      "title": "Closed captioning",
+      "url": "https://en.wikipedia.org/wiki/Closed_captioning"
+    },
+    {
+      "retrieval_id": "batch02-024",
+      "title": "Is it difficult to read subtitles that capture speech verbatim - eg \u201Clike, you know, like, um...\u201D",
+      "url": "https://www.reddit.com/r/deaf/comments/l7suuj"
+    },
+    {
+      "retrieval_id": "batch02-025",
+      "title": "Deaf education",
+      "url": "https://en.wikipedia.org/wiki/Deaf_education"
+    },
+    {
+      "retrieval_id": "batch02-026",
+      "title": "APD and Strong Language Comprehension",
+      "url": "https://www.reddit.com/r/AudiProcDisorder/comments/1iysukh"
+    },
+    {
+      "retrieval_id": "batch02-027",
+      "title": "I have no words. Have they not heard of Closed Captioning? It\u2019s for the Deaf. I\u2019m Deaf and have 3 UNI degrees... Don\u2019t believe these harmful things. PLEASE. We just don\u2019t hear most sounds or zero sounds, we are not stupid and illiterate.",
+      "url": "https://www.reddit.com/r/confidentlyincorrect/comments/z7jgxs"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}

@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Taipei",
+  "interface": "web search",
+  "queries": [
+    {
+      "q": "\u0022deaf\u0022 \u0022classroom learning\u0022 \u0022Marschark\u0022 \u00222005\u0022"
+    },
+    {
+      "q": "\u0022deaf\u0022 \u0022classroom learning\u0022 \u00222008\u0022 interpreting"
+    },
+    {
+      "q": "\u0022deaf\u0022 \u0022learning\u0022 \u0022visual aids\u0022 experiment diagrams"
+    },
+    {
+      "q": "\u0022deaf students\u0022 \u0022teaching speed\u0022 comprehension experimental"
+    }
+  ],
+  "hits": [
+    {
+      "retrieval_id": "batch03-001",
+      "title": "(PDF) Classroom Interpreting and Visual Information Processing in Mainstream Education for Deaf Students: Live or Memorex?",
+      "url": "https://www.researchgate.net/publication/7152852_Classroom_Interpreting_and_Visual_Information_Processing_in_Mainstream_Education_for_Deaf_Students_Live_or_Memorex"
+    },
+    {
+      "retrieval_id": "batch03-002",
+      "title": "Service Learning in Interpreting Education: Living and Learning | Sign Language Interpreting and Interpreter Education: Directions for Research and Practice | Oxford Academic",
+      "url": "https://academic.oup.com/book/36478/chapter-abstract/321087876"
+    },
+    {
+      "retrieval_id": "batch03-003",
+      "title": "UNIVERSITY OF",
+      "url": "https://research.birmingham.ac.uk/files/84195120/Terlektsi_et_al_A_Rapid_Evidence_Assessment_of_the_effectiveness_of_educational_interventions_to_support_children_and_young_people_with_hearing_impairment_2019.pdf"
+    },
+    {
+      "retrieval_id": "batch03-004",
+      "title": "ERIC - EJ1295022 - The Effectiveness of Visual Materials in Teaching Vocabulary to Deaf Students of EFL, Journal of Language and Linguistic Studies, 2021",
+      "url": "https://eric.ed.gov/?id=EJ1295022"
+    },
+    {
+      "retrieval_id": "batch03-005",
+      "title": "\u0022The Effect of Elaboration and Nonelaboration of Sign List Recall Tasks\u0022 by Robert Whitaker",
+      "url": "https://digitalcommons.pcom.edu/psychology_dissertations/441/"
+    },
+    {
+      "retrieval_id": "batch03-006",
+      "title": "Multimodal Transduction and Translanguaging in Deaf Pedagogy",
+      "url": "https://www.mdpi.com/2226-471X/8/2/127"
+    },
+    {
+      "retrieval_id": "batch03-007",
+      "title": "Practicum Report: Visual Aids in Teaching English to Deaf Learners (SNE 101) - Studocu",
+      "url": "https://www.studocu.com/row/document/machakos-university/special-education/practicum-report-visual-aids-in-teaching-english-to-deaf-learners-sne-101/138878452"
+    },
+    {
+      "retrieval_id": "batch03-008",
+      "title": "Removing Barriers to Engagement and Learning for Hard-of-Hearing Students: Multimodal Teaching Strategies | Centre for Teaching and Learning",
+      "url": "https://www.ualberta.ca/en/centre-for-teaching-and-learning/resources/access-community-belonging/access-and-accessibility/removing-barriers-hard-of-hearing.html"
+    },
+    {
+      "retrieval_id": "batch03-009",
+      "title": "Visual Access in Interpreter-Mediated Learning Situations for Deaf and Hard-of-Hearing High School Students Where an Artifact Is in Use - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4886316/"
+    },
+    {
+      "retrieval_id": "batch03-010",
+      "title": "Classroom Interpreting and Visual Information Processing in Mainstream Education for Deaf Students: Live or Memorex\u00AE? - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1440927/"
+    },
+    {
+      "retrieval_id": "batch03-011",
+      "title": "DOCUMENT RESUIpE00",
+      "url": "https://citeseerx.ist.psu.edu/document?doi=e7f9a697d2aab01e3d300219c3b0a1d664b097f1\u0026repid=rep1\u0026type=pdf"
+    },
+    {
+      "retrieval_id": "batch03-012",
+      "title": "(PDF) A Model of Learning Within an Interpreted K-12 Educational Setting",
+      "url": "https://www.researchgate.net/publication/289715112_A_Model_of_Learning_Within_an_Interpreted_K-12_Educational_Setting"
+    },
+    {
+      "retrieval_id": "batch03-013",
+      "title": "Let\u0027sTalkSign Classroom \u2014 Student App for Learning in Sign Language",
+      "url": "https://www.letstalksign.org/lts/products/clsrmstudent.php"
+    },
+    {
+      "retrieval_id": "batch03-014",
+      "title": "Questions for TUT Instructors",
+      "url": "https://www.rit.edu/ntid/pen/newdownloads/workshop/usa/2002/Deaf%20Education%20and%20Online%20Learning/Responses%20from%20TUT%20Instructors.pdf"
+    },
+    {
+      "retrieval_id": "batch03-015",
+      "title": "184  Marc Marschark, Carol Convertino, and Doni LaRock",
+      "url": "https://mdu.ac.in/UpFiles/UpPdfFiles/2022/Jan/4_01-10-2022_15-56-20_Deaf%20Learners%2C%20Developments%20in%20Curriculum%20and%20Instruction%282006%29BBS.pdf"
+    },
+    {
+      "retrieval_id": "batch03-016",
+      "title": "Producing concept-motivated signs supports learning of STEM in American Sign Language - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13254344/"
+    },
+    {
+      "retrieval_id": "batch03-017",
+      "title": "DOCUMENT RESUME",
+      "url": "https://files.eric.ed.gov/fulltext/ED090711.pdf"
+    },
+    {
+      "retrieval_id": "batch03-018",
+      "title": "For secondary",
+      "url": "https://manuals.plus/m/d28208af7f69ba065aa18a63f003abf330fbdef51b5ab23b9121ee3124f62dda.pdf"
+    },
+    {
+      "retrieval_id": "batch03-019",
+      "title": "Deafness in Taiwan",
+      "url": "https://en.wikipedia.org/wiki/Deafness_in_Taiwan"
+    },
+    {
+      "retrieval_id": "batch03-020",
+      "title": "Saudi Sign Language",
+      "url": "https://en.wikipedia.org/wiki/Saudi_Sign_Language"
+    },
+    {
+      "retrieval_id": "batch03-021",
+      "title": "Dialogue journal",
+      "url": "https://en.wikipedia.org/wiki/Dialogue_journal"
+    },
+    {
+      "retrieval_id": "batch03-022",
+      "title": "Adapted physical education",
+      "url": "https://en.wikipedia.org/wiki/Adapted_physical_education"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}

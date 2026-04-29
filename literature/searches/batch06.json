@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Taipei",
+  "interface": "web search",
+  "queries": [
+    {
+      "q": "\u0022hearing loss\u0022 \u0022comprehension\u0022 \u0022remote microphone\u0022",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov",
+        "eric.ed.gov"
+      ]
+    },
+    {
+      "q": "\u0022hearing impaired\u0022 \u0022classroom\u0022 \u0022seating\u0022 \u0022study\u0022",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov",
+        "eric.ed.gov"
+      ]
+    },
+    {
+      "q": "\u0022deaf\u0022 \u0022caption\u0022 \u0022rate\u0022 comprehension experimental",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov",
+        "eric.ed.gov",
+        "academic.oup.com"
+      ]
+    },
+    {
+      "q": "\u0022deaf\u0022 \u0022visual accessibility\u0022 learning study",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov",
+        "eric.ed.gov"
+      ]
+    }
+  ],
+  "hits": [
+    {
+      "retrieval_id": "batch06-001",
+      "title": "Parameters in television captioning for deaf and hard-of-hearing adults: effects of caption rate versus text reduction on comprehension.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18372297/"
+    },
+    {
+      "retrieval_id": "batch06-002",
+      "title": "Parameters in Television Captioning for Deaf and Hard-of-Hearing Adults: Effects of Caption Rate Versus Text Reduction on Comprehension | The Journal of Deaf Studies and Deaf Education | Oxford Academic",
+      "url": "https://academic.oup.com/jdsde/article-abstract/13/3/391/376662"
+    },
+    {
+      "retrieval_id": "batch06-003",
+      "title": "Parameters in Television Captioning for Deaf and Hard-of-Hearing Adults: Effects of Caption Rate Versus Text Reduction on Comprehension | The Journal of Deaf Studies and Deaf Education | Oxford Academic",
+      "url": "https://academic.oup.com/jdsde/article-abstract/13/3/391/376662?login=true"
+    },
+    {
+      "retrieval_id": "batch06-004",
+      "title": "On the Coexistence of Captions and Sign Language as Accessibility Solutions in Educational Settings - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41718337/"
+    },
+    {
+      "retrieval_id": "batch06-005",
+      "title": "ERIC - EJ798587 - Parameters in Television Captioning for Deaf and Hard-of-Hearing Adults: Effects of Caption Rate versus Text Reduction on Comprehension, Journal of Deaf Studies and Deaf Education, 2008",
+      "url": "https://eric.ed.gov/?id=EJ798587\u0026pg=4100\u0026q=guides\u002Breading%3A\u002Bthe\u002Bremain\u002Band\u002Bthe\u002Breality.\u002Bthe\u002Breading\u002Bteacher"
+    },
+    {
+      "retrieval_id": "batch06-006",
+      "title": "The effects of caption rate and language level on comprehension of a captioned video presentation.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7446349/"
+    },
+    {
+      "retrieval_id": "batch06-007",
+      "title": "DOCUMENT RESUME",
+      "url": "https://files.eric.ed.gov/fulltext/ED090960.pdf"
+    },
+    {
+      "retrieval_id": "batch06-008",
+      "title": "The benefits of remote microphone technology for adults with cochlear implants - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19561509/"
+    },
+    {
+      "retrieval_id": "batch06-009",
+      "title": "ERIC - Search Results",
+      "url": "https://eric.ed.gov/?pg=79\u0026q=television"
+    },
+    {
+      "retrieval_id": "batch06-010",
+      "title": "Volume 13 Issue 3 | The Journal of Deaf Studies and Deaf Education | Oxford Academic",
+      "url": "https://academic.oup.com/jdsde/issue/13/3?browseBy=volume"
+    },
+    {
+      "retrieval_id": "batch06-011",
+      "title": "The Study of Spatial Safety and Social Psychological Health Features of Deaf Children and Children with an Intellectual Disability in the Public School Environment Based on the Visual Access and Exposure (VAE) Model.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33921739/"
+    },
+    {
+      "retrieval_id": "batch06-012",
+      "title": "Movement from minimal instruction in social subjects to more extended social offerings occurred. Classroom methods which encouraged pupil participation were widely advocated and somewhat practiced but were not dominant. Similarly, use of supplementary materials in school instruction occurred inconsistently. Social studies sometimes was taught in an integrated manner, more often in primary grade classes than in intermediate ones. However, this organizational practice was not dominant; geography and history, when offered, commonly were taught as separate subjects. By the end of the 1930s, elementary school social studies had changed markedly from the curriculum offerings of the late 1800s through various incremental changes. Despite evidence of transformation in elementary school social studies practice, advocacy of the new \u0022social studies\u0022 continued to outdistance practical implementation throughout the first forty years of the century. The social studies remained a form in continued search of consistent substance.",
+      "url": "https://files.eric.ed.gov/fulltext/ED379282.pdf"
+    },
+    {
+      "retrieval_id": "batch06-013",
+      "title": "Viewer reaction to different television captioning speeds - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9842059/"
+    },
+    {
+      "retrieval_id": "batch06-014",
+      "title": "ed249204.tif.pdf",
+      "url": "https://files.eric.ed.gov/fulltext/ED249204.pdf"
+    },
+    {
+      "retrieval_id": "batch06-015",
+      "title": "DOCUMENT RESUME",
+      "url": "https://files.eric.ed.gov/fulltext/ED368150.pdf"
+    },
+    {
+      "retrieval_id": "batch06-016",
+      "title": "Rerouting Hearing Aid Systems for Overcoming Simulated Unilateral Hearing in Dynamic Listening Situations - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31584502/"
+    },
+    {
+      "retrieval_id": "batch06-017",
+      "title": "This is the third in a series of studies",
+      "url": "https://files.eric.ed.gov/fulltext/ED434446.pdf"
+    },
+    {
+      "retrieval_id": "batch06-018",
+      "title": "ed231136.tif.pdf",
+      "url": "https://files.eric.ed.gov/fulltext/ED231136.pdf"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}

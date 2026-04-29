@@ -1,0 +1,122 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Taipei",
+  "interface": "web search",
+  "queries": [
+    {
+      "q": "\u0022The effects of captions on deaf students\u0022"
+    },
+    {
+      "q": "\u0022deaf\u0022 \u0022Learning via Direct and Mediated Instruction\u0022"
+    },
+    {
+      "q": "\u0022deaf\u0022 \u0022learning\u0022 \u0022real-time\u0022 \u0022Stinson\u0022 \u00222009\u0022",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov",
+        "eric.ed.gov",
+        "journals.sagepub.com"
+      ]
+    },
+    {
+      "q": "\u0022deaf\u0022 \u0022learning\u0022 \u0022speed\u0022 \u0022captions\u0022",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov",
+        "eric.ed.gov",
+        "academic.oup.com"
+      ]
+    }
+  ],
+  "hits": [
+    {
+      "retrieval_id": "batch05-001",
+      "title": "Learning via direct and mediated instruction by deaf students.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18453639/"
+    },
+    {
+      "retrieval_id": "batch05-002",
+      "title": "Learning via Direct and Mediated Instruction by Deaf Students",
+      "url": "https://pascal-francis.inist.fr/vibad/index.php?action=getRecordDetail\u0026idt=20663966"
+    },
+    {
+      "retrieval_id": "batch05-003",
+      "title": "ERIC - EJ958768 - The Effects of Captions on Deaf Students\u0027 Content Comprehension, Cognitive Load, and Motivation in Online Learning, American Annals of the Deaf, 2011",
+      "url": "https://eric.ed.gov/?id=EJ958768\u0026pg=18\u0026q=source%3A%22American\u002BAnnals\u002Bof\u002Bthe\u002BDeaf%22"
+    },
+    {
+      "retrieval_id": "batch05-004",
+      "title": "(PDF) Learning via Direct and Mediated Instruction by Deaf Students",
+      "url": "https://www.researchgate.net/publication/5398417_Learning_via_Direct_and_Mediated_Instruction_by_Deaf_Students"
+    },
+    {
+      "retrieval_id": "batch05-005",
+      "title": "Learning via direct and mediated instruction by deaf students - Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q50451987"
+    },
+    {
+      "retrieval_id": "batch05-006",
+      "title": "Marschark M, Sapere P, Convertino CM, \u0026 Pelz J. Learning via direct and mediated instruction by deaf students. \u003Ci\u003EJournal of Deaf Studies and Deaf Education\u003C/i\u003E. 2008; 13; 546-561.",
+      "url": "https://www.sciepub.com/reference/37674"
+    },
+    {
+      "retrieval_id": "batch05-007",
+      "title": "Full article: The burden of sustaining communication: communication breakdowns experienced by deaf students and their communication support workers in a further education college",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/07908318.2024.2418847?needAccess=true\u0026scroll=top"
+    },
+    {
+      "retrieval_id": "batch05-008",
+      "title": "Rehab Advanced Search Results | Naric",
+      "url": "https://naric.com/rehab-adv-results?drill_down=0\u0026filter_id=0\u0026international=0\u0026intl_blank=0\u0026load_source=6yuhgtre\u0026rehab_blank=0\u0026search_id=432613\u0026start_rec=1100\u0026user_name=public.user.1567097"
+    },
+    {
+      "retrieval_id": "batch05-009",
+      "title": "Effect of video tutorial delivery method on D/HH students\u2019 content comprehension - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9745579/"
+    },
+    {
+      "retrieval_id": "batch05-010",
+      "title": "A Comparison of Comprehension Processes in Sign Language Interpreter Videos with or without Captions - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4444354/"
+    },
+    {
+      "retrieval_id": "batch05-011",
+      "title": "Bentuk Film Dokumenter Ekspositoris Menggunakan Open Caption untuk Audiens dengan Keterbatasan Pendengaran | PANTUN: Jurnal Ilmiah Seni Budaya",
+      "url": "https://jurnal.isbi.ac.id/index.php/pantun/article/view/1426"
+    },
+    {
+      "retrieval_id": "batch05-012",
+      "title": "Video Captions Benefit Everyone - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5214590/"
+    },
+    {
+      "retrieval_id": "batch05-013",
+      "title": "ISSN: 2315-4462",
+      "url": "https://ijlt.org/uploadfile/2016/0219/20160219021228521.pdf"
+    },
+    {
+      "retrieval_id": "batch05-014",
+      "title": "Video Captions Benefit Everyone",
+      "url": "https://gernsbacherlab.org/wp-content/uploads/papers/1/Gernsbacher_Captions_2015.pdf"
+    },
+    {
+      "retrieval_id": "batch05-015",
+      "title": "CSEDU 2021 - 13th International Conference on Computer Supported Education",
+      "url": "https://www.scitepress.org/PublishedPapers/2021/104776/104776.pdf"
+    },
+    {
+      "retrieval_id": "batch05-016",
+      "title": "DOCUMENT RESUME",
+      "url": "https://files.eric.ed.gov/fulltext/ED090710.pdf"
+    },
+    {
+      "retrieval_id": "batch05-017",
+      "title": "Cypriot Journal of Educational",
+      "url": "https://files.eric.ed.gov/fulltext/EJ1332474.pdf"
+    },
+    {
+      "retrieval_id": "batch05-018",
+      "title": "DOCUMENT RESUME",
+      "url": "https://files.eric.ed.gov/fulltext/ED437794.pdf"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}

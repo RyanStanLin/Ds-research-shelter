@@ -1,0 +1,177 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Taipei",
+  "interface": "web search",
+  "queries": [
+    {
+      "q": "site.pubmed.ncbi.nlm.nih.gov \u0022Yoon\u0022 \u0022captions\u0022 deaf"
+    },
+    {
+      "q": "site.pubmed.ncbi.nlm.nih.gov \u0022deaf\u0022 \u0022simultaneous communication\u0022 \u0022learning\u0022"
+    },
+    {
+      "q": "site.eric.ed.gov \u0022deaf\u0022 \u0022notes\u0022 \u0022studying\u0022"
+    },
+    {
+      "q": "site.pubmed.ncbi.nlm.nih.gov \u0022deaf\u0022 \u0022pace\u0022 comprehension"
+    }
+  ],
+  "hits": [
+    {
+      "retrieval_id": "batch04-001",
+      "title": "Hearing Status, Language Modality, and Young Children\u0027s Communicative and Linguistic Behavior - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15448073/"
+    },
+    {
+      "retrieval_id": "batch04-002",
+      "title": "Characteristics that contribute to effective simultaneous communication - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1799177/"
+    },
+    {
+      "retrieval_id": "batch04-003",
+      "title": "DOCUMENT RESUME",
+      "url": "https://files.eric.ed.gov/fulltext/ED423623.pdf"
+    },
+    {
+      "retrieval_id": "batch04-004",
+      "title": "DOCUMENT RESUME",
+      "url": "https://files.eric.ed.gov/fulltext/ED401710.pdf"
+    },
+    {
+      "retrieval_id": "batch04-005",
+      "title": "Task-specific reorganization of the auditory cortex in deaf humans - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28069964/"
+    },
+    {
+      "retrieval_id": "batch04-006",
+      "title": "Deaf Readers\u2019 Response to Syntactic Complexity: Evidence from Self-Paced Reading - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3864115/"
+    },
+    {
+      "retrieval_id": "batch04-007",
+      "title": "Simultaneous Communication Supports Learning in Noise by Cochlear Implant Users - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5581506/"
+    },
+    {
+      "retrieval_id": "batch04-008",
+      "title": "ERIC - Search Results",
+      "url": "https://eric.ed.gov/?ff1=souEducation\u002BSciences\u0026q=hard\u002BAND\u002Bskills"
+    },
+    {
+      "retrieval_id": "batch04-009",
+      "title": "Simultaneous Communication and Cochlear Implants in the Classroom? - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4577054/"
+    },
+    {
+      "retrieval_id": "batch04-010",
+      "title": "Deaf and Hard-of-Hearing Students\u0027 Memory of Lectures with Speech-to-Text and Interpreting/Note Taking Services - Michael S. Stinson, Lisa B. Elliot, Ronald R. Kelly, Yufang Liu, 2009",
+      "url": "https://journals.sagepub.com/doi/10.1177/0022466907313453"
+    },
+    {
+      "retrieval_id": "batch04-011",
+      "title": "Benefits of Sign Language Interpreting and Text Alternatives for Deaf Students\u0027 Classroom Learning - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1686598/"
+    },
+    {
+      "retrieval_id": "batch04-012",
+      "title": "The hidden effect of hearing acuity on speech recall, and compensatory effects of self-paced listening - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3632314/"
+    },
+    {
+      "retrieval_id": "batch04-013",
+      "title": "A Comparison of Comprehension Processes in Sign Language Interpreter Videos with or without Captions - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4444354/"
+    },
+    {
+      "retrieval_id": "batch04-014",
+      "title": "An Eye Tracking Study on the Perception and Comprehension of Unimodal and Bimodal Linguistic Inputs by Deaf Adolescents - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5478736/"
+    },
+    {
+      "retrieval_id": "batch04-015",
+      "title": "The Reading Comprehension Skill of d/Deaf",
+      "url": "https://distantreader.org/stacks/journals/jat/jat-87.pdf"
+    },
+    {
+      "retrieval_id": "batch04-016",
+      "title": "TYPE\u2002 Original Research",
+      "url": "https://public-pages-files-2025.frontiersin.org/articles/10.3389/fpsyg.2022.872946/pdf"
+    },
+    {
+      "retrieval_id": "batch04-017",
+      "title": "Studying when you are D/deaf",
+      "url": "https://university.open.ac.uk/secure-environments/sites/www.open.ac.uk.secure-environments/files/files/studying-when-you-are-deaf.pdf"
+    },
+    {
+      "retrieval_id": "batch04-018",
+      "title": "Researching note-taking methods in SL learners!",
+      "url": "https://www.reddit.com/r/asl/comments/1ioh64j"
+    },
+    {
+      "retrieval_id": "batch04-019",
+      "title": "THE EVALUATION OF A METACOGNITION EDUCATION INTERVENTION THROUGH DIALOGIC TEACHING FOR THE PROMOTION OF SELF-REGULATED LEARNING OF DEAF AND HARD OF HEARING STUDENTS IN DEAF SCHOOLS",
+      "url": "https://www.ideals.illinois.edu/items/121208/bitstreams/397391/data.pdf"
+    },
+    {
+      "retrieval_id": "batch04-020",
+      "title": "Researching note-taking methods in SL learners!",
+      "url": "https://www.reddit.com/r/languagelearning/comments/1ioh6tl"
+    },
+    {
+      "retrieval_id": "batch04-021",
+      "title": "Advice on how to support a deaf university student",
+      "url": "https://www.reddit.com/r/deaf/comments/1rs0jq5/advice_on_how_to_support_a_deaf_university_student/"
+    },
+    {
+      "retrieval_id": "batch04-022",
+      "title": "so, I\u0027m new to learning asl, and I\u0027m wondering, why do i see all over hearing people tell others to simcom, while the deaf community says don\u0027t do that?",
+      "url": "https://www.reddit.com/r/asl/comments/pcn9n7"
+    },
+    {
+      "retrieval_id": "batch04-023",
+      "title": "Deaf education",
+      "url": "https://en.wikipedia.org/wiki/Deaf_education"
+    },
+    {
+      "retrieval_id": "batch04-024",
+      "title": "Simultaneous communication",
+      "url": "https://en.wikipedia.org/wiki/Simultaneous_communication"
+    },
+    {
+      "retrieval_id": "batch04-025",
+      "title": "Speaking while signing",
+      "url": "https://www.reddit.com/r/deaf/comments/q3hmrc"
+    },
+    {
+      "retrieval_id": "batch04-026",
+      "title": "Language exposure for deaf children",
+      "url": "https://en.wikipedia.org/wiki/Language_exposure_for_deaf_children"
+    },
+    {
+      "retrieval_id": "batch04-027",
+      "title": "Help with daughter\u2019s literacy",
+      "url": "https://www.reddit.com/r/deaf/comments/1vy7bdy/help_with_daughters_literacy/"
+    },
+    {
+      "retrieval_id": "batch04-028",
+      "title": "Bimodal bilingualism",
+      "url": "https://en.wikipedia.org/wiki/Bimodal_bilingualism"
+    },
+    {
+      "retrieval_id": "batch04-029",
+      "title": "Implants \u0026 Sign Language?",
+      "url": "https://www.reddit.com/r/Cochlearimplants/comments/1lc8rna"
+    },
+    {
+      "retrieval_id": "batch04-030",
+      "title": "Is it difficult to speak and sign at the same time?",
+      "url": "https://www.reddit.com/r/asl/comments/yxpimd"
+    },
+    {
+      "retrieval_id": "batch04-031",
+      "title": "No Caption, No Problem: Caption-Free Membership Inference via Model-Fitted Embeddings",
+      "url": "https://arxiv.org/abs/2602.22689"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}
