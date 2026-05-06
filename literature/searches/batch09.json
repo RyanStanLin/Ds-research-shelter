@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Taipei",
+  "interface": "web search",
+  "queries": [
+    {
+      "q": "\u0022Griffin\u0022 \u0022Effects of\u0022 \u0022hearing\u0022 \u0022comprehension\u0022",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov"
+      ]
+    },
+    {
+      "q": "\u0022remote microphone\u0022 \u0022comprehension\u0022 children hearing loss",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov"
+      ]
+    },
+    {
+      "q": "\u0022Iglehart\u0022 \u00222016\u0022 cochlear classroom",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov"
+      ]
+    },
+    {
+      "q": "\u0022hearing loss\u0022 \u0022noise\u0022 \u0022learning\u0022 children classroom comprehension",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov",
+        "eric.ed.gov"
+      ]
+    }
+  ],
+  "hits": [
+    {
+      "retrieval_id": "batch09-001",
+      "title": "Contralateral Routing of Signal Systems Can Improve Speech Recognition and Comprehension in Dynamic Classrooms - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32574079/"
+    },
+    {
+      "retrieval_id": "batch09-002",
+      "title": "Benefits of classroom remote microphone technology for inattentive children - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42069773/"
+    },
+    {
+      "retrieval_id": "batch09-003",
+      "title": "Age-related benefits of digital noise reduction for short-term word learning in children with hearing loss - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21646423/"
+    },
+    {
+      "retrieval_id": "batch09-004",
+      "title": "Effect of minimal/mild hearing loss on children\u0027s speech understanding in a simulated classroom - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/25170780/"
+    },
+    {
+      "retrieval_id": "batch09-005",
+      "title": "Classroom noise exposure and evaluation of an acoustic intervention among Chinese students - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42528454/"
+    },
+    {
+      "retrieval_id": "batch09-006",
+      "title": "The benefits of remote microphone technology for adults with cochlear implants - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19561509/"
+    },
+    {
+      "retrieval_id": "batch09-007",
+      "title": "EEG activity as an objective measure of cognitive load during effortful listening: A study on pediatric subjects with bilateral, asymmetric sensorineural hearing loss.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28688548/"
+    },
+    {
+      "retrieval_id": "batch09-008",
+      "title": "Behavioral Measures of Listening Effort in School-Age Children: Examining the Effects of Signal-to-Noise Ratio, Hearing Loss, and Amplification - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29905670/"
+    },
+    {
+      "retrieval_id": "batch09-009",
+      "title": "A Review of the Effect of Classroom Sound-Field Amplification on Children in Primary School.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35344396/"
+    },
+    {
+      "retrieval_id": "batch09-010",
+      "title": "Noise pollution and its overlooked impact on child and adolescent health - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41821845/"
+    },
+    {
+      "retrieval_id": "batch09-011",
+      "title": "Auditory and academic performance of children with unilateral hearing loss.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3227285/"
+    },
+    {
+      "retrieval_id": "batch09-012",
+      "title": "ERIC - EJ627949 - Classroom Acoustics: An Overview., Volta Review, 1999",
+      "url": "https://eric.ed.gov/?id=EJ627949"
+    },
+    {
+      "retrieval_id": "batch09-013",
+      "title": "How Hard Can It Be To Listen? Fatigue in School-Age Children With Hearing Loss",
+      "url": "https://files.eric.ed.gov/fulltext/ED581283.pdf"
+    },
+    {
+      "retrieval_id": "batch09-014",
+      "title": "DOCUMENT RESUMEED 467 382EF 005 965AUTHOR          Crandell, Carl C., Ed.; Smaldino, Joseph J., Ed.",
+      "url": "https://files.eric.ed.gov/fulltext/ED467382.pdf"
+    },
+    {
+      "retrieval_id": "batch09-015",
+      "title": "DOCUMENT RESUME",
+      "url": "https://files.eric.ed.gov/fulltext/ED481407.pdf"
+    },
+    {
+      "retrieval_id": "batch09-016",
+      "title": "DOCUMENT RESUME",
+      "url": "https://files.eric.ed.gov/fulltext/ED451971.pdf"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}

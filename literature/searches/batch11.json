@@ -1,0 +1,84 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Taipei",
+  "interface": "web search",
+  "queries": [
+    {
+      "q": "\u0022The Effects of Captions\u0022 Yoon Kim 2011",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov"
+      ]
+    },
+    {
+      "q": "\u0022Simultaneous Communication Supports Learning in Noise\u0022",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov"
+      ]
+    },
+    {
+      "q": "\u0022Effect of video tutorial delivery method\u0022",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov"
+      ]
+    },
+    {
+      "q": "\u0022An Eye Tracking Study\u0022 \u0022Deaf Adolescents\u0022",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov"
+      ]
+    }
+  ],
+  "hits": [
+    {
+      "retrieval_id": "batch11-001",
+      "title": "Simultaneous communication supports learning in noise by cochlear implant users.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28010675/"
+    },
+    {
+      "retrieval_id": "batch11-002",
+      "title": "Effect of video tutorial delivery method on D/HH students\u0027 content comprehension - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36524162/"
+    },
+    {
+      "retrieval_id": "batch11-003",
+      "title": "The effects of captions on deaf students\u0027 content comprehension, cognitive load, and motivation in online learning - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21941878/"
+    },
+    {
+      "retrieval_id": "batch11-004",
+      "title": "An Eye Tracking Study on the Perception and Comprehension of Unimodal and Bimodal Linguistic Inputs by Deaf Adolescents.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28680416/"
+    },
+    {
+      "retrieval_id": "batch11-005",
+      "title": "Towards a More Inclusive Learning Environment: The Importance of Providing Captions That Are Suited to Learners\u0027 Language Proficiency in the UDL Classroom.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36073435/"
+    },
+    {
+      "retrieval_id": "batch11-006",
+      "title": "Television advertisement format and the provision of risk information about prescription drug products - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17138474/"
+    },
+    {
+      "retrieval_id": "batch11-007",
+      "title": "Recognition memory for pictorial material in subclinical depression.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20728865/"
+    },
+    {
+      "retrieval_id": "batch11-008",
+      "title": "Effects of captions, transcripts and reminders on learning and perceptions of lecture capture.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35496323/"
+    },
+    {
+      "retrieval_id": "batch11-009",
+      "title": "#workoutathome: How Instructions in the Captions of Fitfluencers\u0027 Posts Impact Adolescents\u0027 Body Satisfaction and Intention to Exercise - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38173137/"
+    },
+    {
+      "retrieval_id": "batch11-010",
+      "title": "On-Screen Texts in Audiovisual Input for L2 Vocabulary Learning: A Review - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35645916/"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}

@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Taipei",
+  "interface": "web search",
+  "queries": [
+    {
+      "q": "\u0022Simultaneous Communication Supports Learning in Noise\u0022"
+    },
+    {
+      "q": "\u0022Simultaneous Communication and Cochlear Implants in the Classroom\u0022"
+    },
+    {
+      "q": "\u0022Effect of video tutorial delivery method\u0022 DHH"
+    },
+    {
+      "q": "\u0022Recall of different segments\u0022 \u0022Stinson\u0022 \u00221981\u0022"
+    }
+  ],
+  "hits": [
+    {
+      "retrieval_id": "batch10-001",
+      "title": "Simultaneous Communication and Cochlear Implants in the Classroom? - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4577054/"
+    },
+    {
+      "retrieval_id": "batch10-002",
+      "title": "Recall of Different Segments of an Interpreted Lecture by Deaf Students",
+      "url": "https://openalex.org/W2012721495"
+    },
+    {
+      "retrieval_id": "batch10-003",
+      "title": "Simultaneous Communication and Cochlear Implants in the Classroom",
+      "url": "https://scispace.com/pdf/simultaneous-communication-and-cochlear-implants-in-the-1g46s3j0b5.pdf"
+    },
+    {
+      "retrieval_id": "batch10-004",
+      "title": "Simultaneous Communication Supports Learning in Noise by Cochlear Implant Users - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5581506/"
+    },
+    {
+      "retrieval_id": "batch10-005",
+      "title": "Effect of video tutorial delivery method on D/HH students\u2019 content comprehension - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9745579/"
+    },
+    {
+      "retrieval_id": "batch10-006",
+      "title": "Deafness \u0026 Education International: Vol 17, No 3",
+      "url": "https://www.tandfonline.com/toc/ydei20/17/3"
+    },
+    {
+      "retrieval_id": "batch10-007",
+      "title": "Effect of video tutorial delivery method on D/HH students\u2019 content comprehension",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.872946/pdf"
+    },
+    {
+      "retrieval_id": "batch10-008",
+      "title": "Untitled",
+      "url": "https://www.ssc.education.ed.ac.uk/library/journalarticles.pdf"
+    },
+    {
+      "retrieval_id": "batch10-009",
+      "title": "TEACHER\u2019S STRATEGIES IN TEACHING ENGLISH FOR DEAF",
+      "url": "https://digilib.uinsa.ac.id/43220/2/Dianita%20Megawati_D75215040.pdf"
+    },
+    {
+      "retrieval_id": "batch10-010",
+      "title": "EurekaMag Full Text Articles Chapter 44150",
+      "url": "https://eurekamag.com/research/044/149/"
+    },
+    {
+      "retrieval_id": "batch10-011",
+      "title": "Mejora del aprendizaje del b\u00E1dminton para ni\u00F1os sordos: Desarrollo y evaluaci\u00F3n de un m\u00F3dulo interactivo de ense\u00F1anza por v\u00EDdeo (Enhancing Badminton Learning for Deaf Children: Development and Evaluation of an Interactive Video Teaching Module) | Retos",
+      "url": "https://www.revistaretos.org/index.php/retos/article/view/103062"
+    },
+    {
+      "retrieval_id": "batch10-012",
+      "title": "Cochlear implants in the inclusive classroom: A case study",
+      "url": "https://eurekamag.com/research/099/926/099926797.php"
+    },
+    {
+      "retrieval_id": "batch10-013",
+      "title": "On the Coexistence of Captions and Sign Language as Accessibility Solutions in Educational Settings - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12922059/"
+    },
+    {
+      "retrieval_id": "batch10-014",
+      "title": "The Role of Multiple Articulatory Channels of Sign-Supported Speech Revealed by Visual Processing | Journal of Speech, Language, and Hearing Research",
+      "url": "https://library.mysb.in/doi/10.1044/2019_JSLHR-S-17-0433"
+    },
+    {
+      "retrieval_id": "batch10-015",
+      "title": "Article 1: Long-Term outcomes of cochlear implantation in early childhood: Sample characteristics and data collection methods - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3071545/"
+    },
+    {
+      "retrieval_id": "batch10-016",
+      "title": "The Parents\u0027 Guide to Cochlear Implants - PDF Free Download",
+      "url": "https://epdf.mx/the-parents-guide-to-cochlear-implants.html"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}

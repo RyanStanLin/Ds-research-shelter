@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Taipei",
+  "interface": "web search",
+  "queries": [
+    {
+      "q": "\u0022Effect of Caption Rate on the Comprehension of Educational Television\u0022"
+    },
+    {
+      "q": "\u0022Supported eText\u0022 \u0022caption\u0022 \u0022Anderson-Inman\u0022 \u00222009\u0022"
+    },
+    {
+      "q": "\u0022Using notes from a speech-to-text system for studying\u0022"
+    },
+    {
+      "q": "\u0022Auditory Comprehension\u0022 \u0022Griffin\u0022 \u0022remote\u0022"
+    }
+  ],
+  "hits": [
+    {
+      "retrieval_id": "batch07-001",
+      "title": "Effect of Caption Rate on the Comprehension of Educational Television Programmes by Deaf School Students",
+      "url": "https://rune.une.edu.au/entities/publication/b5e7022b-7d3c-460c-8315-fda4a86754a9"
+    },
+    {
+      "retrieval_id": "batch07-002",
+      "title": "Research and Publication Request",
+      "url": "https://www.rit.edu/ntid/sites/rit.edu.ntid/files/dhhvac/2008summit/Remote_Captioning_References.pdf"
+    },
+    {
+      "retrieval_id": "batch07-003",
+      "title": "(PDF) Supported eText in Captioned Videos: A Comparison of Expanded versus Standard Captions on Student Comprehension of Educational Content",
+      "url": "https://www.researchgate.net/publication/286649817_Supported_eText_in_Captioned_Videos_A_Comparison_of_Expanded_versus_Standard_Captions_on_Student_Comprehension_of_Educational_Content"
+    },
+    {
+      "retrieval_id": "batch07-004",
+      "title": "Microsoft Word - AERA08paper FINAL.doc",
+      "url": "https://www.rit.edu/ntid/cprint/sites/rit.edu.ntid.cprint/files/pubs/pub_AERA%202008.pdf"
+    },
+    {
+      "retrieval_id": "batch07-005",
+      "title": "enl013 421..437",
+      "url": "https://www.rit.edu/ntid/sites/rit.edu.ntid/files/dhhvac/2008summit/Interpreting_and_text.pdf"
+    },
+    {
+      "retrieval_id": "batch07-006",
+      "title": "HHS Public Access",
+      "url": "https://hodspeakhousevirginiagov.s3.amazonaws.com/b1bktsjmbpvk2bnh3lhsz7kig2o8"
+    },
+    {
+      "retrieval_id": "batch07-007",
+      "title": "Untitled",
+      "url": "https://www.ssc.education.ed.ac.uk/library/journalarticles.pdf"
+    },
+    {
+      "retrieval_id": "batch07-008",
+      "title": "Microsoft Word - Completed%20Dissertation",
+      "url": "https://people.wou.edu/~smithj/JSdissertation.pdf"
+    },
+    {
+      "retrieval_id": "batch07-009",
+      "title": "Auditory Comprehension in School-Aged Children With Normal Hearing and With Unilateral Hearing Loss - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7251592/"
+    },
+    {
+      "retrieval_id": "batch07-010",
+      "title": "Supporting Autonomous Learning Skills in Developmental Mathematics Courses With Asynchronous Online Resources - Lisa Elliot, Austin Gehret, Miriam Santana Valadez, Rebecca Carpenter, Linda Bryant, 2020",
+      "url": "https://journals.sagepub.com/doi/10.1177/0002764220919149"
+    },
+    {
+      "retrieval_id": "batch07-011",
+      "title": "(PDF) Effect of Caption Rate on the Comprehension of Educational Television Programmes by Deaf School Students",
+      "url": "https://www.researchgate.net/publication/227702620_Effect_of_Caption_Rate_on_the_Comprehension_of_Educational_Television_Programmes_by_Deaf_School_Students"
+    },
+    {
+      "retrieval_id": "batch07-012",
+      "title": "Top 106 American Annals of the Deaf papers published in 1980",
+      "url": "https://scispace.com/journals/american-annals-of-the-deaf-2e29vu2k/1980"
+    },
+    {
+      "retrieval_id": "batch07-013",
+      "title": "Parameters in Television Captioning for Deaf and",
+      "url": "https://paperzz.com/doc/9040505/parameters-in-television-captioning-for-deaf-and"
+    },
+    {
+      "retrieval_id": "batch07-014",
+      "title": "A Guide for Successful Students 2nd ed.",
+      "url": "https://openlibrary-repo.ecampusontario.ca/jspui/bitstream/123456789/1961/5/A-Guide-for-Successful-Students-2nd-ed-1701294994.-htmlbook.html"
+    },
+    {
+      "retrieval_id": "batch07-015",
+      "title": "Review of STR Technology Applications in Learning: Insights and Implications - Studocu",
+      "url": "https://www.studocu.com/en-us/document/studocu-university-usa/grade-11/review-of-str-technology-applications-in-learning-insights-and-implications/126551483"
+    },
+    {
+      "retrieval_id": "batch07-016",
+      "title": "Video Captions Benefit Everyone - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5214590/"
+    },
+    {
+      "retrieval_id": "batch07-017",
+      "title": "Learning Through Visual Displays [1\u0026nbsp;ed.] 9781623962357, 9781623962333 - DOKUMEN.PUB",
+      "url": "https://dokumen.pub/learning-through-visual-displays-1nbsped-9781623962357-9781623962333.html"
+    },
+    {
+      "retrieval_id": "batch07-018",
+      "title": "A Comparison of Comprehension Processes in Sign Language Interpreter Videos with or without Captions | PLOS One",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0127577"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}
