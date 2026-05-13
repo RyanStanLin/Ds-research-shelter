@@ -1,0 +1,104 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Taipei",
+  "interface": "web search",
+  "queries": [
+    {
+      "q": "\u0022Visual Access in Interpreter-Mediated Learning\u0022 authors",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov",
+        "eric.ed.gov"
+      ]
+    },
+    {
+      "q": "\u0022The Benefit to the Deaf of Real-Time Captions\u0022 Steinfeld doi"
+    },
+    {
+      "q": "\u0022Classroom Interpreting and Visual Information Processing\u0022 \u0022PMID\u0022"
+    },
+    {
+      "q": "\u0022A Comparison of Comprehension Processes\u0022 Debevc authors",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov"
+      ]
+    }
+  ],
+  "hits": [
+    {
+      "retrieval_id": "batch14-001",
+      "title": "The Benefit to the Deaf of Real-Time Captions in a Mainstream Classroom Environment - Robotics Institute Carnegie Mellon University",
+      "url": "https://publications.ri.cmu.edu/the-benefit-to-the-deaf-of-real-time-captions-in-a-mainstream-classroom-environment"
+    },
+    {
+      "retrieval_id": "batch14-002",
+      "title": "A Comparison of Comprehension Processes in Sign Language Interpreter Videos with or without Captions - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26010899/"
+    },
+    {
+      "retrieval_id": "batch14-003",
+      "title": "The Benefit to the Deaf of Real-Time Captions in a Mainstream Classroom Environment",
+      "url": "https://www.cs.cmu.edu/~astein/pub/AS_RTCdiss.pdf"
+    },
+    {
+      "retrieval_id": "batch14-004",
+      "title": "Visual Access in Interpreter-Mediated Learning Situations for Deaf and Hard-of-Hearing High School Students Where an Artifact Is in Use.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26681267/"
+    },
+    {
+      "retrieval_id": "batch14-005",
+      "title": "THE BENEFIT TO THE DEAF OF REAL-TIME CAPTIONS IN",
+      "url": "https://citeseerx.ist.psu.edu/document?doi=b6dc2f8453397fc8891771baf8ea3a361da66192\u0026repid=rep1\u0026type=pdf"
+    },
+    {
+      "retrieval_id": "batch14-006",
+      "title": "Aaron Steinfeld",
+      "url": "https://www.cs.cmu.edu/~astein/"
+    },
+    {
+      "retrieval_id": "batch14-007",
+      "title": "(PDF) THE BENEFIT TO THE DEAF OF REAL-TIME CAPTIONS IN A MAINSTREAM CLASSROOM ENVIRONMENT by Aaron Steinfeld",
+      "url": "https://www.researchgate.net/publication/2900520_THE_BENEFIT_TO_THE_DEAF_OF_REAL-TIME_CAPTIONS_IN_A_MAINSTREAM_CLASSROOM_ENVIRONMENT_by_Aaron_Steinfeld"
+    },
+    {
+      "retrieval_id": "batch14-008",
+      "title": "[1] The quality of live subtitling - I",
+      "url": "https://downloads.bbc.co.uk/rd/pubs/whp/whp-pdf-files/WHP306.pdf"
+    },
+    {
+      "retrieval_id": "batch14-009",
+      "title": "Classroom Interpreting and Visual Information Processing in Mainstream Education for Deaf Students: Live or Memorex\u00AE? - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1440927/"
+    },
+    {
+      "retrieval_id": "batch14-010",
+      "title": "I See What You\u0027re Saying: A Literature Review of Eye Tracking Research in Communication of Deaf or Hard of Hearing Users",
+      "url": "https://www.rit.edu/academicaffairs/facultyscholarship/submit/download_file.php?id=82012"
+    },
+    {
+      "retrieval_id": "batch14-011",
+      "title": "Eye-Tracking in Interpreting Studies: A Review of Four Decades of Empirical Studies - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9272778/"
+    },
+    {
+      "retrieval_id": "batch14-012",
+      "title": "Don\u2019t Assume Deaf Students are Visual Learners - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5362161/"
+    },
+    {
+      "retrieval_id": "batch14-013",
+      "title": "The Benefit to the Deaf of Real-Time Captions in a Mainstream",
+      "url": "https://paperzz.com/doc/8448561/the-benefit-to-the-deaf-of-real-time-captions-in-a-mainst..."
+    },
+    {
+      "retrieval_id": "batch14-014",
+      "title": "Real-Time Speech-to-Text Services FAQs about real-time",
+      "url": "https://paperzz.com/doc/8609676/real-time-speech-to-text-services-faqs-about-real-time"
+    },
+    {
+      "retrieval_id": "batch14-015",
+      "title": "On the Coexistence of Captions and Sign Language as Accessibility Solutions in Educational Settings - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12922059/"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}

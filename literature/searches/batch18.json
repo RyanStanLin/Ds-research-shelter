@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Taipei",
+  "interface": "web search",
+  "queries": [
+    {
+      "q": "\u0022Effects of expanded and standard captions on deaf college\u0022"
+    },
+    {
+      "q": "\u0022Learning by Deaf Students\u0022 \u0022Classroom\u0022 \u00222005\u0022 \u002238\u0022"
+    },
+    {
+      "q": "\u0022The benefit of real-time captioning\u0022 Steinfeld 1998",
+      "domains": [
+        "eric.ed.gov"
+      ]
+    },
+    {
+      "q": "\u0022deaf\u0022 \u0022Marschark\u0022 \u00222009\u0022 \u0022science\u0022 \u0022learning\u0022 lecture",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov",
+        "eric.ed.gov"
+      ]
+    }
+  ],
+  "hits": [
+    {
+      "retrieval_id": "batch18-001",
+      "title": "Effects of expanded and standard captions on deaf college students\u0027 comprehension of educational videos.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24724309/"
+    },
+    {
+      "retrieval_id": "batch18-002",
+      "title": "18047-AAD156.1",
+      "url": "https://files.eric.ed.gov/fulltext/EJ1071400.pdf"
+    },
+    {
+      "retrieval_id": "batch18-003",
+      "title": "American Annals of the Deaf (AAD), Volume 158, Number 5, Winter 2014 (annual index)",
+      "url": "https://ssl.gallaudet.edu/gupress/annals/AAD158_index.pdf"
+    },
+    {
+      "retrieval_id": "batch18-004",
+      "title": "Effects of Expanded and Standard Captions on Deaf College Students\u2019 Comprehension of Educational Videos - Wikidata",
+      "url": "https://www.wikidata.org/wiki/Q45343743"
+    },
+    {
+      "retrieval_id": "batch18-005",
+      "title": "Are deaf students\u0027 reading challenges really about reading?",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20066918/"
+    },
+    {
+      "retrieval_id": "batch18-006",
+      "title": "Perspectives of Caption Viewers 553",
+      "url": "https://successforkidswithhearingloss.com/wp-content/uploads/2020/08/Perspectives-of-Deaf-and-Hard-of-Hearing-Viewers-of-Captions.pdf"
+    },
+    {
+      "retrieval_id": "batch18-007",
+      "title": "(PDF) Requirements and needs for captioning audio-visual content for deaf and hard of hearing pupils",
+      "url": "https://www.researchgate.net/publication/354842104_Requirements_and_needs_for_captioning_audio-visual_content_for_deaf_and_hard_of_hearing_pupils"
+    },
+    {
+      "retrieval_id": "batch18-008",
+      "title": "Effect of video tutorial delivery method on D/HH students\u2019 content comprehension - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9745579/"
+    },
+    {
+      "retrieval_id": "batch18-009",
+      "title": "Reading Between the Lines: Accessing Information via YouTube\u0027s Autocaptioning | Online Learning",
+      "url": "https://olj.onlinelearningconsortium.org/index.php/olj/article/view/823"
+    },
+    {
+      "retrieval_id": "batch18-010",
+      "title": "EVALUACI\u00D3N DE UN VIDEO EDUCATIVO EN SALUD BUCAL PARA",
+      "url": "https://repositorio.unicartagena.edu.co/bitstreams/812df7ce-8aa7-4e07-b528-a7b1014e02d2/download"
+    },
+    {
+      "retrieval_id": "batch18-011",
+      "title": "Benefits of Sign Language Interpreting and Text Alternatives for Deaf Students\u0027 Classroom Learning - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1686598/"
+    },
+    {
+      "retrieval_id": "batch18-012",
+      "title": "(PDF) Learning via Direct and Mediated Instruction by Deaf Students",
+      "url": "https://www.researchgate.net/publication/5398417_Learning_via_Direct_and_Mediated_Instruction_by_Deaf_Students"
+    },
+    {
+      "retrieval_id": "batch18-013",
+      "title": "Classroom Interpreting and Visual Information Processing in Mainstream Education for Deaf Students: Live or Memorex\u00AE? - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1440927/"
+    },
+    {
+      "retrieval_id": "batch18-014",
+      "title": "American Sign Language Interpreters - Essay - 1749 words",
+      "url": "https://www.paperdue.com/essay/american-sign-language-interpreters-the-63329"
+    },
+    {
+      "retrieval_id": "batch18-015",
+      "title": "Pedagogical Applications of Instant Messaging Technology for Deaf and Hard-of-Hearing Students in the Science Classroom",
+      "url": "https://jsesd.github.io/web-articles/JSESD-Volume-12/1023-Pagano/"
+    },
+    {
+      "retrieval_id": "batch18-016",
+      "title": "A Summary of the Vocabulary Research With Students",
+      "url": "https://studylib.net/doc/8096598/a-summary-of-the-vocabulary-research-with-students"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}

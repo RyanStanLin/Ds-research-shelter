@@ -1,0 +1,118 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Taipei",
+  "interface": "web search",
+  "queries": [
+    {
+      "q": "\u0022deaf\u0022 \u0022teaching rate\u0022 \u0022comprehension\u0022 study",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov",
+        "eric.ed.gov"
+      ]
+    },
+    {
+      "q": "\u0022deaf\u0022 \u0022seating position\u0022 \u0022comprehension\u0022 experiment",
+      "domains": [
+        "eric.ed.gov",
+        "pubmed.ncbi.nlm.nih.gov"
+      ]
+    },
+    {
+      "q": "\u0022deaf\u0022 \u0022written materials\u0022 \u0022comprehension\u0022 experiment",
+      "domains": [
+        "eric.ed.gov",
+        "pubmed.ncbi.nlm.nih.gov"
+      ]
+    },
+    {
+      "q": "\u0022deaf\u0022 \u0022caption\u0022 \u0022learning\u0022 2023 2024 2025 2026",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov",
+        "eric.ed.gov"
+      ]
+    }
+  ],
+  "hits": [
+    {
+      "retrieval_id": "batch17-001",
+      "title": "ed117866.tif.pdf",
+      "url": "https://files.eric.ed.gov/fulltext/ED117866.pdf"
+    },
+    {
+      "retrieval_id": "batch17-002",
+      "title": "ED069068.tif.pdf",
+      "url": "https://files.eric.ed.gov/fulltext/ED069068.pdf"
+    },
+    {
+      "retrieval_id": "batch17-003",
+      "title": "[Survey of Pharmacists\u0027 Knowledge, Actions and Confidence in Medication Education to Patients with Hearing Disabilities].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/32999207/"
+    },
+    {
+      "retrieval_id": "batch17-004",
+      "title": "Video Captions Benefit Everyone - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/28066803/"
+    },
+    {
+      "retrieval_id": "batch17-005",
+      "title": "DOCUMENT RESUME",
+      "url": "https://files.eric.ed.gov/fulltext/ED355737.pdf"
+    },
+    {
+      "retrieval_id": "batch17-006",
+      "title": "DOCUMENT RESUMEED 462 773EC 308 835Orkwis, Ray; DeCarme, Judi; Glover, Jeanne",
+      "url": "https://files.eric.ed.gov/fulltext/ED462773.pdf"
+    },
+    {
+      "retrieval_id": "batch17-007",
+      "title": "ERIC - Search Results",
+      "url": "https://eric.ed.gov/default.aspx?ff1=eduPostsecondary\u002BEducation\u0026q=descriptor%3A%22Captions%22"
+    },
+    {
+      "retrieval_id": "batch17-008",
+      "title": "ed220726.tif.pdf",
+      "url": "https://files.eric.ed.gov/fulltext/ED220726.pdf"
+    },
+    {
+      "retrieval_id": "batch17-009",
+      "title": "/11",
+      "url": "https://files.eric.ed.gov/fulltext/ED105668.pdf"
+    },
+    {
+      "retrieval_id": "batch17-010",
+      "title": "Preferences and Listening Efficiency of Adults With Cochlear Implants During Online Communication - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40905781/"
+    },
+    {
+      "retrieval_id": "batch17-011",
+      "title": "Effects of expanded and standard captions on deaf college students\u0027 comprehension of educational videos.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24724309/"
+    },
+    {
+      "retrieval_id": "batch17-012",
+      "title": "ERIC - EJ1223401 - \u0027Gist Watching Can Only Take You so Far\u0027: Attitudes, Strategies and Changes in Behaviour in Watching Films with Captions, Language Learning Journal, 2019",
+      "url": "https://eric.ed.gov/?id=EJ1223401"
+    },
+    {
+      "retrieval_id": "batch17-013",
+      "title": "ERIC - Search Results",
+      "url": "https://eric.ed.gov/?ff1=lawAmericans\u002Bwith\u002BDisabilities\u002BAct\u002B1990\u0026q=content"
+    },
+    {
+      "retrieval_id": "batch17-014",
+      "title": "ERIC - Search Results",
+      "url": "https://eric.ed.gov/?pg=79\u0026q=television"
+    },
+    {
+      "retrieval_id": "batch17-015",
+      "title": "ERIC - Search Results",
+      "url": "https://eric.ed.gov/?ff1=eduGrade\u002B9\u0026q=ar"
+    },
+    {
+      "retrieval_id": "batch17-016",
+      "title": "ERIC - Search Results",
+      "url": "https://eric.ed.gov/?ff1=lawAmericans\u002Bwith\u002BDisabilities\u002BAct\u002B1990\u0026q=nature\u002BAND\u002Bjournal"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}
