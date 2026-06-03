@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Taipei",
+  "interface": "web search",
+  "queries": [{"q":"\"Near-verbatim captioning versus edited captioning\"","domains":["pubmed.ncbi.nlm.nih.gov"]},{"q":"\"Learning via sign language interpreting\" \"2005\"","domains":["pubmed.ncbi.nlm.nih.gov"]},{"q":"\"deaf students experiences\" \"real-time\" \"38767465\"","domains":["pubmed.ncbi.nlm.nih.gov"]},{"q":"\"hearing\" \"noise\" \"comprehension\" \"Lewis\" \"2016\"","domains":["pubmed.ncbi.nlm.nih.gov"]}],
+  "queries": [
+    {
+      "q": "\u0022Near-verbatim captioning versus edited captioning\u0022",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov"
+      ]
+    },
+    {
+      "q": "\u0022Learning via sign language interpreting\u0022 \u00222005\u0022",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov"
+      ]
+    },
+    {
+      "q": "\u0022deaf students experiences\u0022 \u0022real-time\u0022 \u002238767465\u0022",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov"
+      ]
+    },
+    {
+      "q": "\u0022hearing\u0022 \u0022noise\u0022 \u0022comprehension\u0022 \u0022Lewis\u0022 \u00222016\u0022",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov"
+      ]
+    }
+  ],
+  "hits": [
+    {
+      "retrieval_id": "batch21-001",
+      "title": "Near-verbatim captioning versus edited captioning for students who are deaf or hard of hearing: a preliminary investigation of effects on comprehension.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17642361/"
+    },
+    {
+      "retrieval_id": "batch21-002",
+      "title": "Auditory, Visual, and Cognitive Abilities in Normal-Hearing Adults, Hearing Aid Users, and Cochlear Implant Users.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38192017/"
+    },
+    {
+      "retrieval_id": "batch21-003",
+      "title": "The Influence of Speech Material, Intelligibility, and Masker Type on the Pupil Dilation Response in Cochlear Implant Users.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41382329/"
+    },
+    {
+      "retrieval_id": "batch21-004",
+      "title": "Exploring the effect of cognitive factors in lipreading: The roles of auditory-verbal learning, inhibition, verbal fluency, and visuospatial working memory.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42056390/"
+    },
+    {
+      "retrieval_id": "batch21-005",
+      "title": "Neural tracking of continuous acoustics: properties, speech-specificity and open questions.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38151889/"
+    },
+    {
+      "retrieval_id": "batch21-006",
+      "title": "Predictors of Susceptibility to Noise and Speech Masking Among School-Age Children With Hearing Loss or Typical Hearing.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37415268/"
+    },
+    {
+      "retrieval_id": "batch21-007",
+      "title": "Cognitive Determinants of Dysarthria in Parkinson\u0027s Disease: An Automated Machine Learning Approach.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34390508/"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}

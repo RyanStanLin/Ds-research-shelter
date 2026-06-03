@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Taipei",
+  "interface": "web search",
+  "queries": [
+    {
+      "q": "\u0022Near-verbatim captioning versus edited captioning\u0022"
+    },
+    {
+      "q": "\u002215585747\u0022 \u0022learning\u0022"
+    },
+    {
+      "q": "\u0022The benefit of real-time captioning\u0022 \u00221998\u0022"
+    },
+    {
+      "q": "\u0022deaf\u0022 \u0022real-time captions\u0022 \u00222024\u0022 \u0022Barker\u0022",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov",
+        "eric.ed.gov"
+      ]
+    }
+  ],
+  "hits": [
+    {
+      "retrieval_id": "batch19-001",
+      "title": "The benefit of real-time captioning in a mainstream classroom as measured by working memory - Robotics Institute Carnegie Mellon University",
+      "url": "https://publications.ri.cmu.edu/the-benefit-of-real-time-captioning-in-a-mainstream-classroom-as-measured-by-working-memory"
+    },
+    {
+      "retrieval_id": "batch19-002",
+      "title": "(PDF) NEAR-VERBATIM CAPTIONING VERSUS EDITED CAPTIONING",
+      "url": "https://www.researchgate.net/publication/297917674_NEAR-VERBATIM_CAPTIONING_VERSUS_EDITED_CAPTIONING"
+    },
+    {
+      "retrieval_id": "batch19-003",
+      "title": "(PDF) Near-Verbatim Captioning Versus Edited Captioning for Students Who Are Deaf or Hard of Hearing: A Preliminary Investigation of Effects on Comprehension",
+      "url": "https://www.researchgate.net/publication/6196934_Near-Verbatim_Captioning_Versus_Edited_Captioning_for_Students_Who_Are_Deaf_or_Hard_of_Hearing_A_Preliminary_Investigation_of_Effects_on_Comprehension"
+    },
+    {
+      "retrieval_id": "batch19-004",
+      "title": "Deaf/hard of hearing students\u0027 experiences with higher education\u0027s real-time captioning services.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38767465/"
+    },
+    {
+      "retrieval_id": "batch19-005",
+      "title": "American Annals of the Deaf (AAD), Volume 152, Number 5, Winter 2007/2008 (annual index)",
+      "url": "https://ssl.gallaudet.edu/gupress/annals/AAD152_index.pdf"
+    },
+    {
+      "retrieval_id": "batch19-006",
+      "title": "Deafness and Education International",
+      "url": "https://citeseerx.ist.psu.edu/document?doi=a592f3992170232b09c59804803fea9d499ad0b3\u0026repid=rep1\u0026type=pdf"
+    },
+    {
+      "retrieval_id": "batch19-007",
+      "title": "J Spec Educ OnlineFirst, published on May 13, 2008 as doi:10.1177/0022466907313453",
+      "url": "https://citeseerx.ist.psu.edu/document?doi=feecf698c50abf4df191cff63e5946fa8a7f5003\u0026repid=rep1\u0026type=pdf"
+    },
+    {
+      "retrieval_id": "batch19-008",
+      "title": "The Case for Real-time Captioning in Classrooms",
+      "url": "https://dcmp.org/learn/static-assets/nadh167.pdf"
+    },
+    {
+      "retrieval_id": "batch19-009",
+      "title": "The effects of text editing and subtitle presentation rate on the comprehension and reading patterns of interlingual and intralingual subtitles among deaf, hard of hearing and hearing viewers in: Across Languages and Cultures Volume 17 Issue 2 (2016)",
+      "url": "https://doi.org/10.1556/084.2016.17.2.3"
+    },
+    {
+      "retrieval_id": "batch19-010",
+      "title": "Manuscript Production",
+      "url": "https://discovery.ucl.ac.uk/id/eprint/10054420/7/Szarkowska_2367-8591-1-PB.pdf"
+    },
+    {
+      "retrieval_id": "batch19-011",
+      "title": "Writing Without Sound: Language Politics in Closed Captioning | Currents in Electronic Literacy",
+      "url": "https://currents.dwrl.utexas.edu/2011/writingwithoutsound.html"
+    },
+    {
+      "retrieval_id": "batch19-012",
+      "title": "Mediatex-Tasf: a Closed Captioning Real-Time Service in French",
+      "url": "https://eurekamag.com/research/107/413/107413526.php"
+    },
+    {
+      "retrieval_id": "batch19-013",
+      "title": "Video Captions Benefit Everyone",
+      "url": "https://gernsbacherlab.org/wp-content/uploads/papers/1/Gernsbacher_Captions_2015.pdf"
+    },
+    {
+      "retrieval_id": "batch19-014",
+      "title": "Verbatim, Standard, or Edited | PDF | Hearing Loss | Deafness",
+      "url": "https://www.scribd.com/document/1048681501/Verbatim-Standard-Or-Edited"
+    },
+    {
+      "retrieval_id": "batch19-015",
+      "title": "Benefits of Sign Language Interpreting and Text Alternatives for Deaf Students\u0027 Classroom Learning - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1686598/"
+    },
+    {
+      "retrieval_id": "batch19-016",
+      "title": "The Benefit to the Deaf of Real-Time Captions in a Mainstream",
+      "url": "https://paperzz.com/doc/8448561/the-benefit-to-the-deaf-of-real-time-captions-in-a-mainst..."
+    },
+    {
+      "retrieval_id": "batch19-017",
+      "title": "TEITAC Report to the Access Board",
+      "url": "https://www.access-board.gov/ict/teitac/report.html"
+    },
+    {
+      "retrieval_id": "batch19-018",
+      "title": "260 F.3d 1124 - Christopher Duvall v. County of Kitsap a Municipal Corporation of the State of Washington | OpenJurist",
+      "url": "https://openjurist.org/260/f3d/1124"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}

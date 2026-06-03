@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Taipei",
+  "interface": "web search",
+  "queries": [
+    {
+      "q": "\u0022Effect of wireless remote microphone application\u0022 \u0022doi\u0022",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov"
+      ]
+    },
+    {
+      "q": "\u0022Effects of Wireless Remote Microphone\u0022 \u0022China\u0022 \u00222021\u0022",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov"
+      ]
+    },
+    {
+      "q": "\u0022Deaf/hard of hearing students experiences with higher education\u0022 \u00222024\u0022",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov"
+      ]
+    },
+    {
+      "q": "\u0022On the Coexistence of Captions and Sign Language\u0022 \u00222026\u0022",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov"
+      ]
+    }
+  ],
+  "hits": [
+    {
+      "retrieval_id": "batch27-001",
+      "title": "On the Coexistence of Captions and Sign Language as Accessibility Solutions in Educational Settings - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41718337/"
+    },
+    {
+      "retrieval_id": "batch27-002",
+      "title": "Effects of Wireless Remote Microphone on Speech Recognition in Noise for Hearing Aid Users in China.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33912004/"
+    },
+    {
+      "retrieval_id": "batch27-003",
+      "title": "Deaf/hard of hearing students\u0027 experiences with higher education\u0027s real-time captioning services.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/38767465/"
+    },
+    {
+      "retrieval_id": "batch27-004",
+      "title": "Effect of wireless remote microphone application on speech discrimination in noise in children with cochlear implants - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31369931/"
+    },
+    {
+      "retrieval_id": "batch27-005",
+      "title": "Evaluation of speech reception threshold in noise in young Cochlear\u2122 Nucleus\u00AE system 6 implant recipients using two different digital remote microphone technologies and a speech enhancement sound processing algorithm.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/29224769/"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}

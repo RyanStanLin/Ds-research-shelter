@@ -1,0 +1,69 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Taipei",
+  "interface": "web search",
+  "queries": [{"q":"\"Access to postsecondary education through sign language interpreting\"","domains":["pubmed.ncbi.nlm.nih.gov"]},{"q":"\"Deaf and Hard-of-Hearing Students\" \"Memory of Lectures\"","domains":["eric.ed.gov"]},{"q":"\"Digital Captioning\" \"ED388265\"","domains":["eric.ed.gov"]},{"q":"\"hearing\" \"Classroom\" \"Noise\" \"Comprehension\" Lewis \"2016\"","domains":["pubmed.ncbi.nlm.nih.gov"]}],
+  "hits": [
+    {
+      "retrieval_id": "batch25-001",
+      "title": "Access to postsecondary education through sign language interpreting - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15585747/"
+    },
+    {
+      "retrieval_id": "batch25-002",
+      "title": "ERIC - ED388265 - Digital Captioning: Effects of Color-Coding and Placement in Synchronized Text-Audio Presentations., 1994",
+      "url": "https://eric.ed.gov/?id=ED388265"
+    },
+    {
+      "retrieval_id": "batch25-003",
+      "title": "Journal of Deaf Studies and Deaf Education",
+      "url": "https://files.eric.ed.gov/fulltext/ED562352.pdf"
+    },
+    {
+      "retrieval_id": "batch25-004",
+      "title": "ODYSSEY SPRING 2004**",
+      "url": "https://files.eric.ed.gov/fulltext/EJ1064143.pdf"
+    },
+    {
+      "retrieval_id": "batch25-005",
+      "title": "18047-AAD156.1",
+      "url": "https://files.eric.ed.gov/fulltext/EJ1071400.pdf"
+    },
+    {
+      "retrieval_id": "batch25-006",
+      "title": "Predicting the Academic Achievement of Deaf and Hard-of-Hearing Students From Individual, Household, Communication, and Educational Factors",
+      "url": "https://files.eric.ed.gov/fulltext/ED574253.pdf"
+    },
+    {
+      "retrieval_id": "batch25-007",
+      "title": "REFEREED ARTICLE",
+      "url": "https://files.eric.ed.gov/fulltext/EJ1441628.pdf"
+    },
+    {
+      "retrieval_id": "batch25-008",
+      "title": "Assistive technology evaluations: Remote-microphone technology for children with Autism Spectrum Disorder.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27592101/"
+    },
+    {
+      "retrieval_id": "batch25-009",
+      "title": "A Review of the Effect of Classroom Sound-Field Amplification on Children in Primary School.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35344396/"
+    },
+    {
+      "retrieval_id": "batch25-010",
+      "title": "The impact of feedback on dyslexia intervention",
+      "url": "https://files.eric.ed.gov/fulltext/EJ1131288.pdf"
+    },
+    {
+      "retrieval_id": "batch25-011",
+      "title": "Listening Effort by Native and Nonnative Listeners Due to Noise, Reverberation, and Talker Foreign Accent During English Speech Perception - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30986135/"
+    },
+    {
+      "retrieval_id": "batch25-012",
+      "title": "Through the Pupils\u0027 Lens: Multilingual Effort in First and Second Language Listening.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39660813/"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}

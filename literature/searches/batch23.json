@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Taipei",
+  "interface": "web search",
+  "queries": [{"q":"\"Learning via sign language interpreting in mainstream secondary school classrooms\"","domains":["pubmed.ncbi.nlm.nih.gov"]},{"q":"\"Learning via sign language interpreting\" Marschark Seewagen 2005"},{"q":"\"Near-verbatim captioning versus edited captioning\" Ward Wang Paul Loeterman","domains":["pubmed.ncbi.nlm.nih.gov"]}],
+  "hits": [
+    {
+      "retrieval_id": "batch23-001",
+      "title": "Near-verbatim captioning versus edited captioning for students who are deaf or hard of hearing: a preliminary investigation of effects on comprehension.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17642361/"
+    },
+    {
+      "retrieval_id": "batch23-002",
+      "title": "(PDF) Access to Postsecondary Education through Sign Language Interpreting",
+      "url": "https://www.researchgate.net/publication/8141781_Access_to_Postsecondary_Education_through_Sign_Language_Interpreting"
+    },
+    {
+      "retrieval_id": "batch23-003",
+      "title": "Search Results | Scholarly Articles, Journals, and E-Books | EBSCOhost",
+      "url": "https://openurl.ebsco.com/c/t4a2lo/results?bquery=AU\u002BMarschark%2C\u002BMarc\u0026link_origin=\u0026searchDescription=Marschark%2C\u002BMarc\u0026sid=ebsco%3Aocu%3Arecord"
+    },
+    {
+      "retrieval_id": "batch23-004",
+      "title": "Classroom Interpreting and Visual Information Processing in Mainstream Education for Deaf Students: Live or Memorex\u00AE? - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1440927/"
+    },
+    {
+      "retrieval_id": "batch23-005",
+      "title": "Benefits of Sign Language Interpreting and Text Alternatives for Deaf Students\u0027 Classroom Learning - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC1686598/"
+    },
+    {
+      "retrieval_id": "batch23-006",
+      "title": "Search Results | Scholarly Articles, Journals, and E-Books | EBSCOhost",
+      "url": "https://openurl.ebsco.com/results?bquery=AU\u002BSapere%2C\u002BPatricia\u0026page=1\u0026sid=ebsco%3Aocu_results%3Acache"
+    },
+    {
+      "retrieval_id": "batch23-007",
+      "title": "enl013 421..437",
+      "url": "https://www.rit.edu/ntid/sites/rit.edu.ntid/files/dhhvac/2008summit/Interpreting_and_text.pdf"
+    },
+    {
+      "retrieval_id": "batch23-008",
+      "title": "University of",
+      "url": "https://www.unco.edu/cebs/asl-interpreting/pdf/grants/osep-project-2014/annotated_bibliography_final.pdf"
+    },
+    {
+      "retrieval_id": "batch23-009",
+      "title": "(PDF) Classroom Interpreting and Visual Information Processing in Mainstream Education for Deaf Students: Live or Memorex?",
+      "url": "https://www.researchgate.net/publication/7152852_Classroom_Interpreting_and_Visual_Information_Processing_in_Mainstream_Education_for_Deaf_Students_Live_or_Memorex"
+    },
+    {
+      "retrieval_id": "batch23-010",
+      "title": "Educating Deaf Students: Is Literacy the Issue?",
+      "url": "https://nationaldeafcenter.org/wp-content/uploads/2017/04/Conferences.pdf"
+    },
+    {
+      "retrieval_id": "batch23-011",
+      "title": "(PDF) Educational Interpreting: Access and Outcomes",
+      "url": "https://www.researchgate.net/publication/237533830_Educational_Interpreting_Access_and_Outcomes"
+    },
+    {
+      "retrieval_id": "batch23-012",
+      "title": "Effects of Cochlear Implants on Children\u0027s Reading and Academic Achievement (pdf) | Paperity",
+      "url": "https://paperity.org/p/39825828/effects-of-cochlear-implants-on-childrens-reading-and-academic-achievement"
+    },
+    {
+      "retrieval_id": "batch23-013",
+      "title": "ERIC - Search Results",
+      "url": "https://eric.ed.gov/?ff1=autMarschark%2C\u002BMarc\u0026q=Signing"
+    },
+    {
+      "retrieval_id": "batch23-014",
+      "title": "Journal of Deaf Studies and Deaf Education | Interpreta\u00E7\u00E3o em Libras",
+      "url": "https://interpretaremlibras.blogspot.com/2012/06/desde-1996-journal-of-deaf-studies-and.html"
+    },
+    {
+      "retrieval_id": "batch23-015",
+      "title": "(PDF) Classroom Interpreting and Visual Information Processing in Mainstream Education for Deaf Students: Live or Memorex \u00AE ?",
+      "url": "https://www.researchgate.net/publication/7152852_Classroom_Interpreting_and_Visual_Information_Processing_in_Mainstream_Education_for_Deaf_Students_Live_or_Memorex_R"
+    },
+    {
+      "retrieval_id": "batch23-016",
+      "title": "TRANSLANGUAGING IN DEAF COLLEGE STUDENTS:",
+      "url": "https://research.manchester.ac.uk/files/248800547/FULL_TEXT.PDF"
+    },
+    {
+      "retrieval_id": "batch23-017",
+      "title": "How Deaf Children Learn",
+      "url": "https://www.inf.unibz.it/~gennari/projects/terence/marcmarschark/Lisboa_10-12.pdf"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}
