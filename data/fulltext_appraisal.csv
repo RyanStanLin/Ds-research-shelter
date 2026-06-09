@@ -1,0 +1,20 @@
+publication_id,allocation_or_design,measurement_concern,confounding_or_dependence,decision
+P01,randomized 31 per independent arm,ten researcher-created MC questions,selected adult students with limited Korean reading; baseline content knowledge not tested,standalone caption-addition g
+P02,four experiments with different designs,content tests differ by country and experiment,shared comparator E2; missing cell n E1; paired covariance E3; ambiguous allocation E4,only E2 independent summaries computed
+P03,between groups E1 and within persons E3,lecture MC tests and gaze are distinct,missing E1 allocation n; E3 missing paired covariance; overall total inconsistency,no presentation effect computed
+P04,incomplete-block direct and mediated instruction,Tables 1-2 and 4 adjusted posttest summaries,conditions within persons but different content; missing per-content cell n,no adjusted or same-passage paired conversion
+P05,randomized review groups; within-person service conditions,lecture recognition and recall distinct; four-test college reading composite,review time and delay differ; correlation n derived from complete records,reading primary and separate note-review contrasts
+P06,counterbalanced crossover of two videos,small n and low prior content knowledge,participant table group counts conflict with outcome tables,no group-size repair or primary effect
+P07,counterbalanced two video conditions,Algae alpha .05 pre/.14 post; Flatworm .63/.67,optional expansions accessed less than 20 percent; missing posttest covariance,no posttest paired g
+P08,counterbalanced within-person caption rates,mostly short-answer documentary comprehension,one cohort three rates; age and reading association unadjusted,one middle-rate primary correlation and reported rate contrast
+P09,alternating caption conditions across episodes,12-question episode tests; aggregate paired contrast,small selected child sample and different episodes,standalone paired g_z
+P10,randomized six rate-language cells,global explicit inferential and total scores,cell n absent despite means and SDs,no assumed equal allocation
+P11,repeated caption/video/print conditions,content versus interpretation scores,condition SDs and analyzed DHH n unclear; reading r not explicitly DHH-only,no effect or DHH correlation conversion
+P12,fixed uncaptions then captions sequence,narrative coding and ordinal reading test,repeated exposure; fictional film; age-stage differences,reading context only
+P13,alternating caption allocation A25 B26,mixed ages and everyday event comprehension,community club sample not established students; same people across topics,hiking first-period independent g context only
+P15,within students one passage each mode,overall t39 usable but per-passage t dfs inconsistent,incomplete blocks and content difficulty; cross-report RIT overlap unknown,overall paired t only
+P16,within-person three conditions,10 open-response items; reported condition r,passage fixed to condition; order reversed for only 17/48; no content counterbalancing,standalone paired g_z with causal caution
+P17,counterbalanced within persons; heterogeneous language subgroups,discourse score and gaze separated,nonparametric comparisons; paired covariance absent; small native/CI subgroups,no converted mode effect
+P20,18 DHH and 18 hearing under one acoustic setting,18 factual play questions; near-ceiling sentence recognition,hearing status differs; environment not experimentally varied,context for outcome definition only
+P21,two within-person lecture experiments,free-recall idea units are a proxy,E1 print versus interpreted differs from supplementary notes; E1-E2 overlap unreported,E1 two-level F-to-paired-t standalone
+P22,two explicitly separate experiments,input comprehension versus retelling differs,incomplete passage blocks E1; E2 output subgroups; possible cross-report overlap,n12 reading-retelling correlation context only
