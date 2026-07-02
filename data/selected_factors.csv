@@ -1,0 +1,4 @@
+"factor_id","factor_name","tagged_study_units","estimable_study_units","primary_meta_cohorts","selection_reason","quality_status"
+"captioning","Captioning","10","4","0","Addition, editing, rate and expansion are distinct; missing covariances/counts prevent broad pooling","not_formal_RoB_tool; see fulltext appraisal"
+"sign_language_support","Sign language support","21","2","0","Paired contrasts estimable in two CI college samples; quiet/noisy contexts and fixed stories not exchangeable","not_formal_RoB_tool; see fulltext appraisal"
+"reading_proficiency","Reading proficiency","8","5","3","3 cohorts / 2 reports; comparable raw reading-content association; small k and mixed test timings","not_formal_RoB_tool; see fulltext appraisal"
