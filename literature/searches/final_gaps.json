@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-14",
+  "queries": [
+    {
+      "q": "\u0022deaf\u0022 \u0022teaching speed\u0022 comprehension empirical",
+      "domains": [
+        "eric.ed.gov"
+      ]
+    },
+    {
+      "q": "\u0022deaf\u0022 \u0022seating position\u0022 \u0022comprehension\u0022",
+      "domains": [
+        "pubmed.ncbi.nlm.nih.gov",
+        "eric.ed.gov"
+      ]
+    },
+    {
+      "q": "\u0022deaf\u0022 \u0022visual aids\u0022 \u0022learning\u0022 empirical",
+      "domains": [
+        "eric.ed.gov"
+      ]
+    },
+    {
+      "q": "\u0022deaf\u0022 \u0022written\u0022 \u0022notes\u0022 lecture comprehension",
+      "domains": [
+        "eric.ed.gov",
+        "pubmed.ncbi.nlm.nih.gov"
+      ]
+    }
+  ],
+  "hits": [
+    {
+      "retrieval_id": "final_gaps-001",
+      "title": "ERIC - EJ1295022 - The Effectiveness of Visual Materials in Teaching Vocabulary to Deaf Students of EFL, Journal of Language and Linguistic Studies, 2021",
+      "url": "https://eric.ed.gov/?id=EJ1295022"
+    },
+    {
+      "retrieval_id": "final_gaps-002",
+      "title": "It is important to understand that students who are deaf or hard of hearing are not able to observe the speaker, observe the interpreter (if present) and take notes simultaneously. Providing a student note-taker is recommended for lecture-type presentations. A note-taker may be a teacher assistant, team of peer volunteers (this works best if the students have above-average achievement), a student on work experience or a paid scribe.",
+      "url": "https://files.eric.ed.gov/fulltext/ED392233.pdf"
+    },
+    {
+      "retrieval_id": "final_gaps-003",
+      "title": "DOCUMENT RESUME",
+      "url": "https://files.eric.ed.gov/fulltext/ED380917.pdf"
+    },
+    {
+      "retrieval_id": "final_gaps-004",
+      "title": "DOCUMENT RESUME",
+      "url": "https://files.eric.ed.gov/fulltext/ED054580.pdf"
+    },
+    {
+      "retrieval_id": "final_gaps-005",
+      "title": "ERIC - EJ1264225 - Three Suggested Teaching Strategies for Students Who Are Deaf or Hard of Hearing, Support for Learning, 2020-Aug",
+      "url": "https://eric.ed.gov/?id=EJ1264225"
+    },
+    {
+      "retrieval_id": "final_gaps-006",
+      "title": "DOCUMENT RESUME",
+      "url": "https://files.eric.ed.gov/fulltext/ED043987.pdf"
+    },
+    {
+      "retrieval_id": "final_gaps-007",
+      "title": "DOCUMENT RESUME",
+      "url": "https://files.eric.ed.gov/fulltext/ED090711.pdf"
+    },
+    {
+      "retrieval_id": "final_gaps-008",
+      "title": "ERIC - EJ1302367 - Disrupting Phonocentricism for Teaching Deaf Pupils: Prospective Physical Education Teachers\u0027 Learning about Visual Pedagogies and Non-Verbal Communication, Physical Education and Sport Pedagogy, 2021",
+      "url": "https://eric.ed.gov/?id=EJ1302367"
+    },
+    {
+      "retrieval_id": "final_gaps-009",
+      "title": "ed040530.tif.pdf",
+      "url": "https://files.eric.ed.gov/fulltext/ED040530.pdf"
+    },
+    {
+      "retrieval_id": "final_gaps-010",
+      "title": "ERIC - Search Results",
+      "url": "https://eric.ed.gov/?ff1=pubReports\u002B-\u002BEvaluative\u0026q=more"
+    },
+    {
+      "retrieval_id": "final_gaps-011",
+      "title": "ERIC - Search Results",
+      "url": "https://eric.ed.gov/?ff1=subTeaching\u002BMethods\u0026ff2=subVisual\u002BAids\u0026q=design\u002BAND\u002Bgraphic"
+    },
+    {
+      "retrieval_id": "final_gaps-012",
+      "title": "ERIC - Search Results",
+      "url": "https://eric.ed.gov/?ff1=eduGrade\u002B2\u0026ff2=pubDissertations%2FTheses\u002B-\u002BDoctoral\u002BDissertations\u0026q=a"
+    },
+    {
+      "retrieval_id": "final_gaps-013",
+      "title": "ERIC - EJ1007100 - Listening for Silenced Voices: Teaching Writing to Deaf Students and What It Can Teach Us about Composition Studies, Teaching English in the Two-Year College, 2013-May",
+      "url": "https://eric.ed.gov/?id=EJ1007100"
+    },
+    {
+      "retrieval_id": "final_gaps-014",
+      "title": "ERIC - ED623072 - Creating TikToks, Memes, Accessible Content, and Books from Engineering Videos? First Solve the Scene Detection Problem, Grantee Submission, 2022",
+      "url": "https://eric.ed.gov/?id=ED623072"
+    },
+    {
+      "retrieval_id": "final_gaps-015",
+      "title": "ERIC - Search Results",
+      "url": "https://eric.ed.gov/default.aspx?ff1=subTeaching\u002BMethods\u0026pg=44\u0026q=descriptor%3A%22Creative\u002BActivities%22"
+    },
+    {
+      "retrieval_id": "final_gaps-016",
+      "title": "Adoption and usability of a braille communication assistive device (CAD) for face-to-face and remote communication in two users with deafblindness.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/40036118/"
+    },
+    {
+      "retrieval_id": "final_gaps-017",
+      "title": "Speaking like a scientist: A multiple case study on sketch and speak intervention to improve expository discourse - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36381522/"
+    },
+    {
+      "retrieval_id": "final_gaps-018",
+      "title": "[Cortical deafness following bilateral hypertensive putaminal hemorrhage].",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/3730198/"
+    },
+    {
+      "retrieval_id": "final_gaps-019",
+      "title": "pubmed.ncbi.nlm.nih.gov",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31584502/"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}

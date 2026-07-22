@@ -1,0 +1,108 @@
+{
+  "interface": "web search with site filters; not a native database export",
+  "queries": [
+    {"q": "\"deaf\" \"classroom comprehension\" \"reading\" empirical", "domains": ["eric.ed.gov", "pubmed.ncbi.nlm.nih.gov"]},
+    {"q": "\"deaf\" \"comprehension\" captions teaching visual classroom 2021 2025", "domains": ["eric.ed.gov", "pubmed.ncbi.nlm.nih.gov"]},
+    {"q": "\"deaf\" \"comprehension\" \"seating\" classroom study", "domains": ["eric.ed.gov", "pubmed.ncbi.nlm.nih.gov"]}
+  ],
+  "opened_urls": ["https://wviechtb.github.io/metafor/reference/escalc.html", "https://github.com/wviechtb/metafor/blob/master/R/escalc.r"],
+  "hits": [
+    {
+      "retrieval_id": "final_targeted_primary-001",
+      "title": "The effects of captions on deaf students\u0027 content comprehension, cognitive load, and motivation in online learning - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/21941878/"
+    },
+    {
+      "retrieval_id": "final_targeted_primary-002",
+      "title": "Effect of video tutorial delivery method on D/HH students\u0027 content comprehension - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/36524162/"
+    },
+    {
+      "retrieval_id": "final_targeted_primary-003",
+      "title": "ERIC - EJ1477656 - Facilitating Listening Skills in Children Who Are Visually Impaired with Additional Disabilities or Deafblindness, Journal of Visual Impairment \u0026 Blindness, 2025-May",
+      "url": "https://eric.ed.gov/?id=EJ1477656"
+    },
+    {
+      "retrieval_id": "final_targeted_primary-004",
+      "title": "ERIC - EJ1268567 - Using Captioning Services with Deaf and Hard of Hearing Students in Higher Education: A Systematic Review, American Annals of the Deaf, 2020",
+      "url": "https://eric.ed.gov/?id=EJ1268567"
+    },
+    {
+      "retrieval_id": "final_targeted_primary-005",
+      "title": "Comprehension of television messages by deaf students at various stages of education - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19350951/"
+    },
+    {
+      "retrieval_id": "final_targeted_primary-006",
+      "title": "Recognition and Comprehension of Multiple-Meaning Words: Examining a Vocabulary Intervention With Hard of Hearing Students - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/34719516/"
+    },
+    {
+      "retrieval_id": "final_targeted_primary-007",
+      "title": "A Comparison of Comprehension Processes in Sign Language Interpreter Videos with or without Captions - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/26010899/"
+    },
+    {
+      "retrieval_id": "final_targeted_primary-008",
+      "title": "The \u0022wh\u0022 questions of visual phonics: what, who, where, when, and why.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20817738/"
+    },
+    {
+      "retrieval_id": "final_targeted_primary-009",
+      "title": "Microsoft Word - JAASEP Winter 2019-Working Copy",
+      "url": "https://files.eric.ed.gov/fulltext/EJ1254303.pdf"
+    },
+    {
+      "retrieval_id": "final_targeted_primary-010",
+      "title": "Effects of expanded and standard captions on deaf college students\u0027 comprehension of educational videos.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24724309/"
+    },
+    {
+      "retrieval_id": "final_targeted_primary-011",
+      "title": "Word-Level Instruction for Deaf and Hard-of-Hearing Students: An Observation Study - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/35797712/"
+    },
+    {
+      "retrieval_id": "final_targeted_primary-012",
+      "title": "IlLi\u0022--------",
+      "url": "https://files.eric.ed.gov/fulltext/ED376305.pdf"
+    },
+    {
+      "retrieval_id": "final_targeted_primary-013",
+      "title": "Television literacy: comprehension of program content using closed captions for the deaf.",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/15451862/"
+    },
+    {
+      "retrieval_id": "final_targeted_primary-014",
+      "title": "Exploring Deaf and Hard of Hearing Students\u0027 Engagement in Reading Comprehension Strategies in Elementary School - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/41906880/"
+    },
+    {
+      "retrieval_id": "final_targeted_primary-015",
+      "title": "ENGAGING DEAF AND HARD OF HEARING STUDENTS",
+      "url": "https://files.eric.ed.gov/fulltext/ED533125.pdf"
+    },
+    {
+      "retrieval_id": "final_targeted_primary-016",
+      "title": "ed318153.tif.pdf",
+      "url": "https://files.eric.ed.gov/fulltext/ED318153.pdf"
+    },
+    {
+      "retrieval_id": "final_targeted_primary-017",
+      "title": "Attitudes of Preservice Teachers Towards Teaching Deaf and ESL Students",
+      "url": "https://files.eric.ed.gov/fulltext/EJ995273.pdf"
+    },
+    {
+      "retrieval_id": "final_targeted_primary-018",
+      "title": "211,1elo_rt",
+      "url": "https://files.eric.ed.gov/fulltext/ED278299.pdf"
+    },
+    {
+      "retrieval_id": "final_targeted_primary-019",
+      "title": "Calculate Effect Sizes and Outcome Measures \u2014 escalc \u2022 metafor",
+      "url": "https://wviechtb.github.io/metafor/reference/escalc.html"
+    }
+  ],
+  "date": "2026-10-14",
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}

@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-14",
+  "timezone": "Asia/Taipei",
+  "queries": [
+    {
+      "q": "site.metafor-project.org \u0022SMD\u0022 \u00220.6\u0022 \u0022vi\u0022"
+    },
+    {
+      "q": "site.statsmodels.org \u0022effectsize_smd\u0022"
+    },
+    {
+      "q": "site.github.com/statsmodels/statsmodels \u0022effectsize_smd\u0022 \u0022test\u0022"
+    },
+    {
+      "q": "site.wviechtb.github.io/metafor \u0022SMD\u0022 \u0022vtype\u0022 \u0022LS\u0022"
+    }
+  ],
+  "hits": [
+    {
+      "retrieval_id": "statistics_references-001",
+      "title": "Calculate Effect Sizes and Outcome Measures \u2014 escalc \u2022 metafor",
+      "url": "https://wviechtb.github.io/metafor/reference/escalc.html"
+    },
+    {
+      "retrieval_id": "statistics_references-002",
+      "title": "Read News File of the Metafor Package \u2014 metafor.news \u2022 metafor",
+      "url": "https://wviechtb.github.io/metafor/reference/metafor.news.html"
+    },
+    {
+      "retrieval_id": "statistics_references-003",
+      "title": "statsmodels/statsmodels/stats/meta_analysis.py at main \u00B7 statsmodels/statsmodels \u00B7 GitHub",
+      "url": "https://github.com/statsmodels/statsmodels/blob/main/statsmodels/stats/meta_analysis.py"
+    },
+    {
+      "retrieval_id": "statistics_references-004",
+      "title": "Statistics stats \u2014 statsmodels 0.15.0",
+      "url": "https://www.statsmodels.org/stable/stats.html"
+    },
+    {
+      "retrieval_id": "statistics_references-005",
+      "title": "metafor/NEWS.md at master \u00B7 wviechtb/metafor \u00B7 GitHub",
+      "url": "https://github.com/wviechtb/metafor/blob/master/NEWS.md"
+    },
+    {
+      "retrieval_id": "statistics_references-006",
+      "title": "Help for package metafor",
+      "url": "https://mirror.linux.ncsu.edu/cran/web/packages/metafor/refman/metafor.html"
+    },
+    {
+      "retrieval_id": "statistics_references-007",
+      "title": "metafor: Meta-Analysis Package for R",
+      "url": "https://wviechtb.r-universe.dev/metafor/metafor.pdf"
+    },
+    {
+      "retrieval_id": "statistics_references-008",
+      "title": "Evaluation of various estimators for standardized mean difference in meta-analysis - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7770064/"
+    },
+    {
+      "retrieval_id": "statistics_references-009",
+      "title": "R: Calculate Effect Sizes and Outcome Measures",
+      "url": "https://search.r-project.org/CRAN/refmans/metafor/html/escalc.html"
+    },
+    {
+      "retrieval_id": "statistics_references-010",
+      "title": "statsmodels/docs/source/stats.rst at main \u00B7 statsmodels/statsmodels \u00B7 GitHub",
+      "url": "https://github.com/statsmodels/statsmodels/blob/main/docs/source/stats.rst"
+    },
+    {
+      "retrieval_id": "statistics_references-011",
+      "title": "metafor/R/rma.uni.r at master \u00B7 wviechtb/metafor \u00B7 GitHub",
+      "url": "https://github.com/wviechtb/metafor/blob/master/R/rma.uni.r"
+    },
+    {
+      "retrieval_id": "statistics_references-012",
+      "title": "Repositorio Institucional de la Universidad Aut\u00F3noma de Madrid",
+      "url": "https://repositorio.uam.es/bitstream/handle/10486/711311/methods_suero_pm_2023_ps.pdf?isAllowed=y\u0026sequence=1"
+    },
+    {
+      "retrieval_id": "statistics_references-013",
+      "title": "escalc function - RDocumentation",
+      "url": "https://www.rdocumentation.org/packages/metafor/versions/3.8-1/topics/escalc"
+    },
+    {
+      "retrieval_id": "statistics_references-014",
+      "title": "Why do birds use green nest material? A systematic review and meta-analysis of experiments",
+      "url": "https://ecoevorxiv.org/repository/object/10676/download/19601/"
+    },
+    {
+      "retrieval_id": "statistics_references-015",
+      "title": "metafor source: R/escalc.r",
+      "url": "https://rdrr.io/cran/metafor/src/R/escalc.r"
+    },
+    {
+      "retrieval_id": "statistics_references-016",
+      "title": "Microsoft Word - ZOI241321supp1_edited",
+      "url": "https://cdn-jamanetwork-com.libproxy.catholic.ac.kr/ama/content_public/journal/jamanetworkopen/939484/zoi241321supp1_prod_1745330366.65459.pdf"
+    },
+    {
+      "retrieval_id": "statistics_references-017",
+      "title": "metafor: Meta-Analysis Package for R",
+      "url": "https://stat.ethz.ch/CRAN/web/packages/metafor/metafor.pdf"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}

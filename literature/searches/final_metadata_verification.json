@@ -1,0 +1,91 @@
+{
+  "date": "2026-10-14",
+  "queries": [
+    {"q": "\"Rerouting hearing aid systems for overcoming simulated unilateral hearing\" Picou"},
+    {"q": "\"The effectiveness of visual materials in teaching vocabulary\" doi Birinci Saricoban"},
+    {"q": "Hartung Knapp Sidik Jonkman modification few studies Rover Knapp Friede 2015 formula q", "domains": ["bmcmedresmethodol.biomedcentral.com", "link.springer.com"]}
+  ],
+  "hits": [
+    {
+      "retrieval_id": "final_metadata_verification-001",
+      "title": "Rerouting Hearing Aid Systems for Overcoming Simulated Unilateral Hearing in Dynamic Listening Situations - PubMed",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31584502/"
+    },
+    {
+      "retrieval_id": "final_metadata_verification-002",
+      "title": "The effectiveness of visual materials in teaching vocabulary to deaf students of EFL - Hacettepe \u00DCniversitesi",
+      "url": "https://research.hacettepe.edu.tr/tr/publications/the-effectiveness-of-visual-materials-in-teaching-vocabulary-to-d/"
+    },
+    {
+      "retrieval_id": "final_metadata_verification-003",
+      "title": "Hartung-Knapp-Sidik-Jonkman approach and its modification for random-effects meta-analysis with few studies",
+      "url": "https://bmcmedresmethodol.biomedcentral.com/counter/pdf/10.1186/s12874-015-0091-1"
+    },
+    {
+      "retrieval_id": "final_metadata_verification-004",
+      "title": "Available online at www.jlls.org",
+      "url": "https://www.jlls.org/index.php/jlls/article/download/1551/824"
+    },
+    {
+      "retrieval_id": "final_metadata_verification-005",
+      "title": "Re-routing Hearing Aid Systems for Overcoming Simulated Unilateral Hearing in Dynamic Listening Situations - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7117994/"
+    },
+    {
+      "retrieval_id": "final_metadata_verification-006",
+      "title": "Performance of several types of beta-binomial models in comparison to standard approaches for meta-analyses with very few studies | BMC Medical Research Methodology | Springer Nature Link",
+      "url": "https://link.springer.com/article/10.1186/s12874-022-01779-3"
+    },
+    {
+      "retrieval_id": "final_metadata_verification-007",
+      "title": "The effectiveness of visual materials in teaching vocabulary to deaf students of EFL | AVES\u0130S",
+      "url": "https://avesis.hacettepe.edu.tr/yayin/3465aa35-c061-45eb-a9f1-039920b08eed/the-effectiveness-of-visual-materials-in-teaching-vocabulary-to-deaf-students-of-efl"
+    },
+    {
+      "retrieval_id": "final_metadata_verification-008",
+      "title": "The Hartung-Knapp-Sidik-Jonkman method for random effects meta-analysis is straightforward and considerably outperforms the standard DerSimonian-Laird method | BMC Medical Research Methodology | Springer Nature Link",
+      "url": "https://link.springer.com/article/10.1186/1471-2288-14-25"
+    },
+    {
+      "retrieval_id": "final_metadata_verification-009",
+      "title": "Spatial Release From Masking in Pediatric Cochlear Implant Recipients With Single-Sided Deafness - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9522323/"
+    },
+    {
+      "retrieval_id": "final_metadata_verification-010",
+      "title": "Amplification of the poorer ear by StereoBiCROS in case of asymmetric sensorineural hearing loss: effect on tinnitus",
+      "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2023.1141096/pdf"
+    },
+    {
+      "retrieval_id": "final_metadata_verification-011",
+      "title": "Volume 123(1)",
+      "url": "https://www.agbell.org/wp-content/uploads/2024/05/TVR_2023-Research-Proceedings_FINAL-1.pdf"
+    },
+    {
+      "retrieval_id": "final_metadata_verification-012",
+      "title": "Contralateral Routing of Signal Devices Reduce Objective and Subjective Listening Effort in Unilateral Cochlear Implant Recipients - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12737860/"
+    },
+    {
+      "retrieval_id": "final_metadata_verification-013",
+      "title": "Search Results - \u0022Turkey\u0022 :: Library Catalog",
+      "url": "https://iris.sena.edu.co/EDS/Search?dfApplied=1\u0026filter%5B%5D=EXPAND%3A%22fulltext%22\u0026filter%5B%5D=SubjectEDS%3A%22english\u002B%28second\u002Blanguage%29%22\u0026filter%5B%5D=SubjectEDS%3A%22high\u002Bschools%22\u0026filter%5B%5D=SubjectEDS%3A%22vocabulary\u002Bdevelopment%22\u0026lookfor=%22Turkey%22\u0026type=SU"
+    },
+    {
+      "retrieval_id": "final_metadata_verification-014",
+      "title": "(PDF) JOURNAL OF LANGUAGE AND LINGUISTIC STUDIES The effectiveness of visual materials in teaching vocabulary to deaf students of EFL",
+      "url": "https://www.researchgate.net/publication/350706806_JOURNAL_OF_LANGUAGE_AND_LINGUISTIC_STUDIES_The_effectiveness_of_visual_materials_in_teaching_vocabulary_to_deaf_students_of_EFL"
+    },
+    {
+      "retrieval_id": "final_metadata_verification-015",
+      "title": "Vocabulary Teaching Strategies By Efl Teachers Of Junior High School Level | IDEAS: Journal on English Language Teaching and Learning, Linguistics and Literature",
+      "url": "https://ejournal.iainpalopo.ac.id/index.php/ideas/article/view/2335"
+    },
+    {
+      "retrieval_id": "final_metadata_verification-016",
+      "title": "A cross-domain empirical benchmark of quantum-inspired and classical optimization algorithms for machine learning | Quantum Machine Intelligence | Springer Nature Link",
+      "url": "https://link.springer.com/article/10.1007/s42484-026-00444-y"
+    }
+  ],
+  "capture_note": "Search result titles and URLs only; snippets/full text not reproduced. Unmatched hits still require screening. Signed URL query credentials removed."
+}
