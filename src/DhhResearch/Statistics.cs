@@ -13,8 +13,7 @@ internal static class Statistics
         return new Effect(0.5 * Math.Log((1 + r) / (1 - r)), 1.0 / (n - 3));
     }
 
-
-
+    // 配对结果使用差值标准差。
     public static Effect PairedFromT(int n, double t)
     {
         if (n < 3 || !double.IsFinite(t)) throw new ArgumentException("Invalid paired contrast.");
@@ -33,8 +32,7 @@ internal static class Statistics
         return PairedFromT(n, (m1-m0) * Math.Sqrt(n / vd));
     }
 
-
-
+    // 小样本区间仅支持两个或三个队列。
     public static (double Lower,double Upper,double Scale) SmallKInterval(IReadOnlyList<Effect> effects,MetaResult result)
     {
         if(effects.Count is not (2 or 3)||result.K!=effects.Count)
@@ -46,9 +44,7 @@ internal static class Statistics
         return(result.Pooled-half,result.Pooled+half,scale);
     }
 
-
-
-
+    // 独立组使用合并标准差。
     public static Effect HedgesG(int n1, double mean1, double sd1, int n0, double mean0, double sd0)
     {
         if (n1 < 2 || n0 < 2 || !double.IsFinite(mean1) || !double.IsFinite(mean0) ||
@@ -65,8 +61,6 @@ internal static class Statistics
             throw new ArgumentException("Effect or sampling variance is invalid.");
         return new Effect(g, v);
     }
-
-
 
     public static MetaResult RandomEffects(IReadOnlyList<Effect> effects)
     {

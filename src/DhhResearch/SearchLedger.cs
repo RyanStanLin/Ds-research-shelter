@@ -39,7 +39,6 @@ internal static class SearchLedger
                 string url = match.Groups[2].Value;
                 if (!Uri.TryCreate(url, UriKind.Absolute, out var uri)) continue;
 
-
                 if (uri.Query.Contains("X-Amz", StringComparison.OrdinalIgnoreCase) || uri.Query.Contains("Signature", StringComparison.OrdinalIgnoreCase))
                     url = uri.GetLeftPart(UriPartial.Path);
                 string id = $"{Path.GetFileNameWithoutExtension(path)}-{++index:D3}";

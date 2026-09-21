@@ -1,7 +1,5 @@
 namespace DhhResearch;
 
-
-
 internal static class EvidenceCuration
 {
     private static readonly string[] Headers = ("effect_id,publication_id,study_id,independence_cluster_id,factor_id,synthesis_id,design,outcome_type,timepoint,intervention,comparator,n_treatment,n_control,mean_treatment,mean_control,sd_treatment,sd_control,score_direction,source_status,source_page_table,eligible,reason,raw_t,raw_df,raw_F,raw_CI_lower,raw_CI_upper,paired_n,paired_r,sd_difference,cluster_count,icc,education_level,sample_size,factor_category,measurement,condition_details,scale_units,scale_min,scale_max,extraction_note,raw_r,correlation_n,raw_md,raw_se,effect_family,pool_role,n_basis,t_direction").Split(',');
@@ -161,7 +159,6 @@ internal static class EvidenceCuration
                 ["source_url"]=url,["n_dhh_abstract"]=n,["education_level"]=stage,["study_design_preliminary"]=design,["outcome_preliminary"]=outcome,
                 ["screening_status"]=decision,["acquisition_priority"]="D",["access_lead"]="metadata_only",["possible_overlap_family"]="NA",["screening_note"]=note,["factor_tags"]=tags});
         }
-
 
         publications.RemoveAll(p=>p["publication_id"]=="P39");
         Catalog("P40","Alasim, K. N.","2021","Recognition and comprehension of multiple-meaning words: Examining a vocabulary intervention with hard of hearing students","10.1353/aad.2021.0030","American Annals of the Deaf","166(3)","262–283","https://pubmed.ncbi.nlm.nih.gov/34719516/","3","primary","replicated_single_case","multiple_meaning_words","candidate_near_scope","reading_proficiency;written_materials","Word-level intervention; excluded from content-comprehension pooling; abstract only.");

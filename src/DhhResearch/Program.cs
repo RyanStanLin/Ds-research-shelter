@@ -2,8 +2,14 @@ using DhhResearch;
 
 try
 {
+    const string usage = "Commands: validate, analyze, summarize, audit-data, curate, search-ledger, inventory, extract-pdfs, paper-export, audit. Follow a command with the research root.";
+    if (args.Length == 0 || args[0] is "help" or "--help" or "-h")
+    {
+        Console.WriteLine(usage);
+        return 0;
+    }
     var root = Path.GetFullPath(args.Length > 1 ? args[1] : Directory.GetCurrentDirectory());
-    return (args.Length > 0 ? args[0] : "inventory") switch
+    return args[0] switch
     {
         "inventory" => Inventory.Run(root),
         "validate" => NumericalValidation.Run(root),
@@ -14,7 +20,8 @@ try
         "summarize" => EvidenceSummary.Run(root),
         "paper-export" => PaperExport.Run(root),
         "audit" => FinalAudit.Run(root),
-        _ => throw new ArgumentException("Use inventory, validate, analyze, search-ledger, extract-pdfs, curate, or summarize followed by the research root.")
+        "audit-data" => DataAudit.Run(root),
+        _ => throw new ArgumentException(usage)
     };
 }
 catch (Exception ex)

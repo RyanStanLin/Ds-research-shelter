@@ -46,7 +46,6 @@ internal static class NumericalValidation
     private static void PublishedExample()
     {
 
-
         (int n1, double m1, double s1, int n0, double m0, double s0, double g, double v)[] cases =
         [
             (60, 94, 22, 60, 92, 20, .09452437336063831, .03337182573880991),
@@ -120,7 +119,6 @@ internal static class NumericalValidation
 
     private static void Paired()
     {
-
 
         var r=Statistics.PairedFromT(25,2);
         Near(.38736842105263157,r.G);Near(.04300108587257618,r.Variance);
