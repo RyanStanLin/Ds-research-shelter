@@ -8,6 +8,10 @@ dotnet run --project src/DhhResearch -- validate .
 
 It returns a nonzero exit code for any failed check and writes `numerical_checks.csv`. This project has no MSTest/xUnit/NUnit package; do not mistake `dotnet test` with zero discovery for numerical validation.
 
+For the public checkout, `bash scripts/reproduce.sh` also rebuilds results and runs `audit-data`, which writes `validation/data_audit.csv`. The ten data checks cover identifiers, source metadata, appraisals, cohort references, numerical fields, eligible effects, decisions, synthesis membership, factor selection and numerical-validation records. Original-PDF hashes and manuscript delivery are outside this command's scope.
+
+`delivery_audit.csv`, `artifact_hashes.csv`, `artifact_qa.md` and `latex_compile.json` are archived records of the original private delivery. Re-running `audit` requires the excluded manuscript, original PDFs and render output.
+
 ## Declared independent-groups estimator
 
 Let N = n1+n0 and df=N−2. The pooled SD is sqrt(((n1−1)SD1²+(n0−1)SD0²)/df). Define J ≈ 1−3/(4N−9), g=J*(mean1−mean0)/SDpooled, and V(g)=N/(n1*n0)+g²/[2(N−3.94)]. This matches the explicit correction and variance in [statsmodels effectsize_smd](https://www.statsmodels.org/stable/_modules/statsmodels/stats/meta_analysis.html), whose tests compare these values to R `meta`. This is an approximation, not the exact gamma-function correction. Different variance estimators (for example, metafor LS/UB) need not return identical values and must not be silently mixed.
